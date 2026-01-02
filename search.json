@@ -114,37 +114,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome",
+    "title": "Sergio Garcia Busto",
     "section": "",
-    "text": "[Write a brief, engaging introduction about yourself, your background, and what you do. This should be 2-3 paragraphs highlighting your expertise and passion.]"
+    "text": "I am a computational biologist and biochemist that is passionate about biotechnological innovation. I find applying statistical and machine learning concepts to create solutions in the life sciences extremely motivating, in particular at the interface between AI and engineering biology. I am pursuing a PhD at the University of Cambridge and the Wellcome Sanger Institute, also working closely with Harvard Medical School, and am currently working on AI methods for enzyme design."
   },
   {
-    "objectID": "index.html#hello-im-your-name-here",
-    "href": "index.html#hello-im-your-name-here",
-    "title": "Welcome",
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Sergio Garcia Busto",
     "section": "",
-    "text": "[Write a brief, engaging introduction about yourself, your background, and what you do. This should be 2-3 paragraphs highlighting your expertise and passion.]"
-  },
-  {
-    "objectID": "index.html#connect-with-me",
-    "href": "index.html#connect-with-me",
-    "title": "Welcome",
-    "section": "Connect With Me",
-    "text": "Connect With Me\n\n\n\nLinkedIn\n\n\n\nX (Twitter)\n\n\n\nBlog\n\n\n\nDownload CV"
-  },
-  {
-    "objectID": "index.html#recent-highlights",
-    "href": "index.html#recent-highlights",
-    "title": "Welcome",
-    "section": "Recent Highlights",
-    "text": "Recent Highlights\n\n\n📚 Latest Blog Posts\n\n\nBlog Post Title 1\nBlog Post Title 2\nBlog Post Title 3\n\n\n\n🚀 Featured Projects\n\n\nProject Name 1\nProject Name 2\nProject Name 3"
-  },
-  {
-    "objectID": "index.html#lets-work-together",
-    "href": "index.html#lets-work-together",
-    "title": "Welcome",
-    "section": "Let’s Work Together",
-    "text": "Let’s Work Together\n\n[Add text about what kind of opportunities you’re interested in or how people can reach out to you.]\nContact Me"
+    "text": "I am a computational biologist and biochemist that is passionate about biotechnological innovation. I find applying statistical and machine learning concepts to create solutions in the life sciences extremely motivating, in particular at the interface between AI and engineering biology. I am pursuing a PhD at the University of Cambridge and the Wellcome Sanger Institute, also working closely with Harvard Medical School, and am currently working on AI methods for enzyme design."
   },
   {
     "objectID": "skills.html",
