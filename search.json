@@ -1,23 +1,191 @@
 [
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to my blog! Here I share thoughts on research, technology, and topics related to my work."
+  },
+  {
+    "objectID": "blog.html#blog-post-title-1",
+    "href": "blog.html#blog-post-title-1",
+    "title": "Blog",
+    "section": "Blog Post Title 1",
+    "text": "Blog Post Title 1\nDate: [Month Day, Year]\nTags: [Tag1] | [Tag2] | [Tag3]\n\n[Write an engaging introduction to your blog post. This could be about recent research findings, technical insights, reflections on your field, or any other relevant topic.]\n[Continue with the main content of your post. Feel free to include code snippets, images, or other media.]\nRead more…"
+  },
+  {
+    "objectID": "blog.html#blog-post-title-2",
+    "href": "blog.html#blog-post-title-2",
+    "title": "Blog",
+    "section": "Blog Post Title 2",
+    "text": "Blog Post Title 2\nDate: [Month Day, Year]\nTags: [Tag1] | [Tag2] | [Tag3]\n\n[Write an engaging introduction to your blog post. This could be about recent research findings, technical insights, reflections on your field, or any other relevant topic.]\n[Continue with the main content of your post. Feel free to include code snippets, images, or other media.]\nRead more…"
+  },
+  {
+    "objectID": "blog.html#blog-post-title-3",
+    "href": "blog.html#blog-post-title-3",
+    "title": "Blog",
+    "section": "Blog Post Title 3",
+    "text": "Blog Post Title 3\nDate: [Month Day, Year]\nTags: [Tag1] | [Tag2] | [Tag3]\n\n[Write an engaging introduction to your blog post. This could be about recent research findings, technical insights, reflections on your field, or any other relevant topic.]\n[Continue with the main content of your post. Feel free to include code snippets, images, or other media.]\nRead more…"
+  },
+  {
+    "objectID": "blog.html#archive",
+    "href": "blog.html#archive",
+    "title": "Blog",
+    "section": "Archive",
+    "text": "Archive\n\n[Create a list of links to older posts organized by year or category]\n\n2025\n\nPost Title - Brief description\nPost Title - Brief description\n\n\n\n2024\n\nPost Title - Brief description\nPost Title - Brief description"
+  },
+  {
+    "objectID": "blog.html#subscribe-to-updates",
+    "href": "blog.html#subscribe-to-updates",
+    "title": "Blog",
+    "section": "Subscribe to Updates",
+    "text": "Subscribe to Updates\n\nWant to stay updated with my latest posts? [Add subscription method or RSS feed link]"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About me",
+    "title": "About Me",
     "section": "",
-    "text": "About this site"
+    "text": "[Write about your educational journey, degrees, institutions, and relevant academic achievements.]"
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About Me",
+    "section": "",
+    "text": "[Write about your educational journey, degrees, institutions, and relevant academic achievements.]"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About Me",
+    "section": "Experience",
+    "text": "Experience\n\n\nPosition Title | Organization Name\n[Start Date] - [End Date or “Present”]\n\nKey responsibility or achievement\nAnother important contribution\nSignificant project or initiative\n\n\n\nPrevious Position | Previous Organization\n[Start Date] - [End Date]\n\nKey responsibility or achievement\nAnother important contribution"
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About Me",
+    "section": "Research Interests",
+    "text": "Research Interests\n\n[Describe your research areas, methodologies, and what drives your academic curiosity.]\n\n\nArea 1\nDescription of research area\n\n\nArea 2\nDescription of research area\n\n\nArea 3\nDescription of research area"
+  },
+  {
+    "objectID": "about.html#publications",
+    "href": "about.html#publications",
+    "title": "About Me",
+    "section": "Publications",
+    "text": "Publications\n\n\n[Paper Title] - Author names. Journal Name, Year. [DOI/Link]\n[Paper Title] - Author names. Conference Name, Year. [DOI/Link]\n[Paper Title] - Author names. Journal Name, Year. [DOI/Link]"
+  },
+  {
+    "objectID": "about.html#awards-recognition",
+    "href": "about.html#awards-recognition",
+    "title": "About Me",
+    "section": "Awards & Recognition",
+    "text": "Awards & Recognition\n\n\nAward Name - Awarding Organization, Year\nHonor/Grant - Institution, Year\nRecognition - Details, Year"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "I am working on…"
+    "text": "Below are some of my key projects. Each demonstrates different aspects of my skills and research interests.\n\n\n\n\nDescription: [Provide a detailed description of the project, its goals, and significance.]\nTechnologies/Methods: [List key technologies, tools, or methodologies used]\nKey Outcomes: - [Achievement or result 1] - [Achievement or result 2] - [Achievement or result 3]\nLinks: GitHub | Paper | Demo\n\n\n\n\n\nDescription: [Provide a detailed description of the project, its goals, and significance.]\nTechnologies/Methods: [List key technologies, tools, or methodologies used]\nKey Outcomes: - [Achievement or result 1] - [Achievement or result 2] - [Achievement or result 3]\nLinks: GitHub | Paper | Demo\n\n\n\n\n\nDescription: [Provide a detailed description of the project, its goals, and significance.]\nTechnologies/Methods: [List key technologies, tools, or methodologies used]\nKey Outcomes: - [Achievement or result 1] - [Achievement or result 2] - [Achievement or result 3]\nLinks: GitHub | Paper | Demo"
+  },
+  {
+    "objectID": "projects.html#featured-projects",
+    "href": "projects.html#featured-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Below are some of my key projects. Each demonstrates different aspects of my skills and research interests.\n\n\n\n\nDescription: [Provide a detailed description of the project, its goals, and significance.]\nTechnologies/Methods: [List key technologies, tools, or methodologies used]\nKey Outcomes: - [Achievement or result 1] - [Achievement or result 2] - [Achievement or result 3]\nLinks: GitHub | Paper | Demo\n\n\n\n\n\nDescription: [Provide a detailed description of the project, its goals, and significance.]\nTechnologies/Methods: [List key technologies, tools, or methodologies used]\nKey Outcomes: - [Achievement or result 1] - [Achievement or result 2] - [Achievement or result 3]\nLinks: GitHub | Paper | Demo\n\n\n\n\n\nDescription: [Provide a detailed description of the project, its goals, and significance.]\nTechnologies/Methods: [List key technologies, tools, or methodologies used]\nKey Outcomes: - [Achievement or result 1] - [Achievement or result 2] - [Achievement or result 3]\nLinks: GitHub | Paper | Demo"
+  },
+  {
+    "objectID": "projects.html#ongoing-research",
+    "href": "projects.html#ongoing-research",
+    "title": "Projects",
+    "section": "Ongoing Research",
+    "text": "Ongoing Research\n\n\nResearch Project A\n\n[Brief description of ongoing research, expected outcomes, and timeline.]\n\n\nResearch Project B\n\n[Brief description of ongoing research, expected outcomes, and timeline.]"
+  },
+  {
+    "objectID": "projects.html#collaborative-work",
+    "href": "projects.html#collaborative-work",
+    "title": "Projects",
+    "section": "Collaborative Work",
+    "text": "Collaborative Work\n\n[Describe projects you’ve worked on with other researchers, institutions, or organizations.]\nProject Name - Role: [Your Role]\nCollaborators: [Names/Institutions]\n[Brief description and outcomes]"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal_page",
+    "title": "Welcome",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "[Write a brief, engaging introduction about yourself, your background, and what you do. This should be 2-3 paragraphs highlighting your expertise and passion.]"
+  },
+  {
+    "objectID": "index.html#hello-im-your-name-here",
+    "href": "index.html#hello-im-your-name-here",
+    "title": "Welcome",
+    "section": "",
+    "text": "[Write a brief, engaging introduction about yourself, your background, and what you do. This should be 2-3 paragraphs highlighting your expertise and passion.]"
+  },
+  {
+    "objectID": "index.html#connect-with-me",
+    "href": "index.html#connect-with-me",
+    "title": "Welcome",
+    "section": "Connect With Me",
+    "text": "Connect With Me\n\n\n\nLinkedIn\n\n\n\nX (Twitter)\n\n\n\nBlog\n\n\n\nDownload CV"
+  },
+  {
+    "objectID": "index.html#recent-highlights",
+    "href": "index.html#recent-highlights",
+    "title": "Welcome",
+    "section": "Recent Highlights",
+    "text": "Recent Highlights\n\n\n📚 Latest Blog Posts\n\n\nBlog Post Title 1\nBlog Post Title 2\nBlog Post Title 3\n\n\n\n🚀 Featured Projects\n\n\nProject Name 1\nProject Name 2\nProject Name 3"
+  },
+  {
+    "objectID": "index.html#lets-work-together",
+    "href": "index.html#lets-work-together",
+    "title": "Welcome",
+    "section": "Let’s Work Together",
+    "text": "Let’s Work Together\n\n[Add text about what kind of opportunities you’re interested in or how people can reach out to you.]\nContact Me"
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills & Expertise",
+    "section": "",
+    "text": "Python\n\n\nR\n\n\n[Add Language]\n\n\n[Add Language]\n\n\n[Add Language]\n\n\n\n\n\n\npandas\n\n\nNumPy\n\n\nscikit-learn\n\n\n[Add Tool]\n\n\n[Add Tool]\n\n\n\n\n\n\nTensorFlow\n\n\nPyTorch\n\n\n[Add Framework]\n\n\n[Add Framework]\n\n\n\n\n\n\nGit\n\n\nDocker\n\n\nSQL\n\n\n[Add Tool]\n\n\n[Add Tool]"
+  },
+  {
+    "objectID": "skills.html#technical-skills",
+    "href": "skills.html#technical-skills",
+    "title": "Skills & Expertise",
+    "section": "",
+    "text": "Python\n\n\nR\n\n\n[Add Language]\n\n\n[Add Language]\n\n\n[Add Language]\n\n\n\n\n\n\npandas\n\n\nNumPy\n\n\nscikit-learn\n\n\n[Add Tool]\n\n\n[Add Tool]\n\n\n\n\n\n\nTensorFlow\n\n\nPyTorch\n\n\n[Add Framework]\n\n\n[Add Framework]\n\n\n\n\n\n\nGit\n\n\nDocker\n\n\nSQL\n\n\n[Add Tool]\n\n\n[Add Tool]"
+  },
+  {
+    "objectID": "skills.html#research-methods",
+    "href": "skills.html#research-methods",
+    "title": "Skills & Expertise",
+    "section": "Research Methods",
+    "text": "Research Methods\n\n\nQuantitative Methods\n\n\nStatistical modeling\nExperimental design\nTime series analysis\n[Add method]\n[Add method]\n\n\n\nQualitative Methods\n\n\nCase study analysis\nContent analysis\nSurvey design\n[Add method]\n[Add method]"
+  },
+  {
+    "objectID": "skills.html#domain-expertise",
+    "href": "skills.html#domain-expertise",
+    "title": "Skills & Expertise",
+    "section": "Domain Expertise",
+    "text": "Domain Expertise\n\n\nDomain Area 1\n\n[Description of your expertise in this domain, including years of experience and key achievements.]\n\n\nDomain Area 2\n\n[Description of your expertise in this domain, including years of experience and key achievements.]\n\n\nDomain Area 3\n\n[Description of your expertise in this domain, including years of experience and key achievements.]"
+  },
+  {
+    "objectID": "skills.html#languages",
+    "href": "skills.html#languages",
+    "title": "Skills & Expertise",
+    "section": "Languages",
+    "text": "Languages\n\n\nEnglish - [Native/Fluent/Proficient/Intermediate/Basic]\n[Language] - [Proficiency Level]\n[Language] - [Proficiency Level]"
+  },
+  {
+    "objectID": "skills.html#professional-development",
+    "href": "skills.html#professional-development",
+    "title": "Skills & Expertise",
+    "section": "Professional Development",
+    "text": "Professional Development\n\nCertifications\n\n\n[Certification Name] - Issuing Organization, Year\n[Certification Name] - Issuing Organization, Year\n\n\n\nWorkshops & Training\n\n\n[Workshop/Course Name] - Institution, Year\n[Workshop/Course Name] - Institution, Year"
   }
 ]
