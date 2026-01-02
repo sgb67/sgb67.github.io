@@ -105,24 +105,119 @@ li {
   border-bottom: 1px solid #f0f0f0;
 }
 
-/* Skills section */
-.skill-category {
-  background: #fafafa;
-  padding: 1.5rem;
-  border-radius: 4px;
-  margin-bottom: 1.5rem;
-  border-left: 2px solid #2c3e50;
+/* Skills section - minimalist list with progress bars */
+.skills-section {
+  margin-bottom: 2rem;
 }
 
-.skill-item {
-  display: inline-block;
-  background: #f0f0f0;
-  color: #2c3e50;
-  padding: 0.4rem 0.8rem;
-  border-radius: 3px;
-  margin: 0.25rem;
+.skills-section h3 {
   font-size: 0.85rem;
-  font-weight: 500;
+  font-weight: 600;
+  color: #6c757d;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.skills-section h3:first-child {
+  margin-top: 0;
+}
+
+.skills-section p {
+  margin: 0.5rem 0;
+  color: #2c3e50;
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Grid column subheadings */
+.grid h3 {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #6c757d;
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.grid p {
+  margin: 0.5rem 0;
+  color: #2c3e50;
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Skill progress bar */
+.skill-bar {
+  display: inline-block;
+  width: 120px;
+  height: 6px;
+  background: #e0e0e0;
+  border-radius: 3px;
+  overflow: hidden;
+  margin-left: auto;
+  flex-shrink: 0;
+}
+
+.skill-fill {
+  display: block;
+  height: 100%;
+  background: #5a67d8;
+  border-radius: 3px;
+  transition: width 0.3s ease;
+}
+
+.skill-advanced {
+  width: 100%;
+}
+
+.skill-proficient {
+  width: 80%;
+}
+
+.skill-intermediate {
+  width: 60%;
+}
+
+.skill-basic {
+  width: 40%;
+}
+
+/* Simple list styling */
+.simple-list {
+  margin-bottom: 2rem;
+}
+
+.simple-list h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #2c3e50;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.simple-list h3:first-child {
+  margin-top: 0;
+}
+
+.simple-list ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.simple-list li {
+  padding: 0.4rem 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.simple-list li:last-child {
+  border-bottom: none;
 }
 
 /* Project cards */

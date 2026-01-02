@@ -46,14 +46,14 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I"
+    "text": "I first st"
   },
   {
-    "objectID": "about.html#educational-background",
-    "href": "about.html#educational-background",
+    "objectID": "about.html#background-education",
+    "href": "about.html#background-education",
     "title": "About Me",
     "section": "",
-    "text": "I"
+    "text": "I first st"
   },
   {
     "objectID": "about.html#experience",
@@ -63,18 +63,18 @@
     "text": "Experience\n\n\nPosition Title | Organization Name\n[Start Date] - [End Date or “Present”]\n\nKey responsibility or achievement\nAnother important contribution\nSignificant project or initiative\n\n\n\nPrevious Position | Previous Organization\n[Start Date] - [End Date]\n\nKey responsibility or achievement\nAnother important contribution"
   },
   {
-    "objectID": "about.html#research-interests",
-    "href": "about.html#research-interests",
-    "title": "About Me",
-    "section": "Research Interests",
-    "text": "Research Interests\n\n[Describe your research areas, methodologies, and what drives your academic curiosity.]\n\n\nArea 1\nDescription of research area\n\n\nArea 2\nDescription of research area\n\n\nArea 3\nDescription of research area"
-  },
-  {
     "objectID": "about.html#publications",
     "href": "about.html#publications",
     "title": "About Me",
     "section": "Publications",
-    "text": "Publications\n\n\n[Paper Title] - Author names. Journal Name, Year. [DOI/Link]\n[Paper Title] - Author names. Conference Name, Year. [DOI/Link]\n[Paper Title] - Author names. Journal Name, Year. [DOI/Link]"
+    "text": "Publications\n\nComing soon!"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills"
   },
   {
     "objectID": "about.html#awards-recognition",
@@ -116,55 +116,48 @@
     "href": "index.html",
     "title": "Sergio Garcia Busto",
     "section": "",
-    "text": "I am a computational biologist and biochemist passionate about advancing biotechnology through AI and engineering biology. My work focuses on developing novel computational approaches for functional protein engineering, with a particular emphasis on AI-driven enzyme design. I am currently pursuing a PhD at the University of Cambridge and the Wellcome Sanger Institute, working closely with Harvard Medical School under the supervision of Debbie Marks. The intersection of biology, computation, and design drives my research and fuels my commitment to transformative solutions in biotechnology.\nThis site showcases my professional profile, past and projects, and research endeavors. It serves as a hub for sharing my work and connecting with the broader scientific community.\nIf you are interested in my work, or want to contact me for any other reason, do not hesitate to reach out to me via LinkedIn or email."
+    "text": "I am a computational biologist and biochemist passionate about building statistical and machine learning solutions to advance biotechnology. My work focuses on developing novel computational approaches for functional protein engineering, with a particular emphasis on AI-driven enzyme design. I am currently pursuing a PhD at the University of Cambridge and the Wellcome Sanger Institute, working closely with Harvard Medical School under the supervision of Debbie Marks. The intersection of biology, computation, and design drives my research and fuels my commitment to innovate within the life sciences.\nThis site showcases my professional profile, past and projects, and research endeavors. It serves as a hub for sharing my work and connecting with the broader scientific community.\nIf you are interested in my work, or want to contact me for any other reason, do not hesitate to reach out to me via LinkedIn or email."
   },
   {
     "objectID": "index.html#bio",
     "href": "index.html#bio",
     "title": "Sergio Garcia Busto",
     "section": "",
-    "text": "I am a computational biologist and biochemist passionate about advancing biotechnology through AI and engineering biology. My work focuses on developing novel computational approaches for functional protein engineering, with a particular emphasis on AI-driven enzyme design. I am currently pursuing a PhD at the University of Cambridge and the Wellcome Sanger Institute, working closely with Harvard Medical School under the supervision of Debbie Marks. The intersection of biology, computation, and design drives my research and fuels my commitment to transformative solutions in biotechnology.\nThis site showcases my professional profile, past and projects, and research endeavors. It serves as a hub for sharing my work and connecting with the broader scientific community.\nIf you are interested in my work, or want to contact me for any other reason, do not hesitate to reach out to me via LinkedIn or email."
+    "text": "I am a computational biologist and biochemist passionate about building statistical and machine learning solutions to advance biotechnology. My work focuses on developing novel computational approaches for functional protein engineering, with a particular emphasis on AI-driven enzyme design. I am currently pursuing a PhD at the University of Cambridge and the Wellcome Sanger Institute, working closely with Harvard Medical School under the supervision of Debbie Marks. The intersection of biology, computation, and design drives my research and fuels my commitment to innovate within the life sciences.\nThis site showcases my professional profile, past and projects, and research endeavors. It serves as a hub for sharing my work and connecting with the broader scientific community.\nIf you are interested in my work, or want to contact me for any other reason, do not hesitate to reach out to me via LinkedIn or email."
   },
   {
     "objectID": "skills.html",
     "href": "skills.html",
     "title": "Skills & Expertise",
     "section": "",
-    "text": "Python\n\n\nR\n\n\n[Add Language]\n\n\n[Add Language]\n\n\n[Add Language]\n\n\n\n\n\n\npandas\n\n\nNumPy\n\n\nscikit-learn\n\n\n[Add Tool]\n\n\n[Add Tool]\n\n\n\n\n\n\nTensorFlow\n\n\nPyTorch\n\n\n[Add Framework]\n\n\n[Add Framework]\n\n\n\n\n\n\nGit\n\n\nDocker\n\n\nSQL\n\n\n[Add Tool]\n\n\n[Add Tool]"
+    "text": "Python \nR \n[Language] \n[Language] \n\n\n\npandas \nNumPy \nscikit-learn \nTensorFlow \nPyTorch \n[Framework] \n\n\n\nGit \nDocker \nSQL \n[Tool]"
   },
   {
     "objectID": "skills.html#technical-skills",
     "href": "skills.html#technical-skills",
     "title": "Skills & Expertise",
     "section": "",
-    "text": "Python\n\n\nR\n\n\n[Add Language]\n\n\n[Add Language]\n\n\n[Add Language]\n\n\n\n\n\n\npandas\n\n\nNumPy\n\n\nscikit-learn\n\n\n[Add Tool]\n\n\n[Add Tool]\n\n\n\n\n\n\nTensorFlow\n\n\nPyTorch\n\n\n[Add Framework]\n\n\n[Add Framework]\n\n\n\n\n\n\nGit\n\n\nDocker\n\n\nSQL\n\n\n[Add Tool]\n\n\n[Add Tool]"
+    "text": "Python \nR \n[Language] \n[Language] \n\n\n\npandas \nNumPy \nscikit-learn \nTensorFlow \nPyTorch \n[Framework] \n\n\n\nGit \nDocker \nSQL \n[Tool]"
   },
   {
-    "objectID": "skills.html#research-methods",
-    "href": "skills.html#research-methods",
+    "objectID": "skills.html#research-analytical-skills",
+    "href": "skills.html#research-analytical-skills",
     "title": "Skills & Expertise",
-    "section": "Research Methods",
-    "text": "Research Methods\n\n\nQuantitative Methods\n\n\nStatistical modeling\nExperimental design\nTime series analysis\n[Add method]\n[Add method]\n\n\n\nQualitative Methods\n\n\nCase study analysis\nContent analysis\nSurvey design\n[Add method]\n[Add method]"
+    "section": "Research & Analytical Skills",
+    "text": "Research & Analytical Skills\n\n\nQuantitative Methods\nStatistical modeling \nExperimental design \nTime series analysis \n[Method] \n\n\nQualitative Methods\nCase study analysis \nContent analysis \nSurvey design \n[Method]"
   },
   {
-    "objectID": "skills.html#domain-expertise",
-    "href": "skills.html#domain-expertise",
+    "objectID": "skills.html#soft-skills",
+    "href": "skills.html#soft-skills",
     "title": "Skills & Expertise",
-    "section": "Domain Expertise",
-    "text": "Domain Expertise\n\n\nDomain Area 1\n\n[Description of your expertise in this domain, including years of experience and key achievements.]\n\n\nDomain Area 2\n\n[Description of your expertise in this domain, including years of experience and key achievements.]\n\n\nDomain Area 3\n\n[Description of your expertise in this domain, including years of experience and key achievements.]"
+    "section": "Soft Skills",
+    "text": "Soft Skills\n\n\nCommunication & Collaboration\nScientific writing \nPublic speaking \nTeam collaboration \nMentorship \n\n\nProfessional Skills\nProject management \nProblem solving \nCritical thinking \nAdaptability"
   },
   {
-    "objectID": "skills.html#languages",
-    "href": "skills.html#languages",
+    "objectID": "skills.html#languages-development",
+    "href": "skills.html#languages-development",
     "title": "Skills & Expertise",
-    "section": "Languages",
-    "text": "Languages\n\n\nEnglish - [Native/Fluent/Proficient/Intermediate/Basic]\n[Language] - [Proficiency Level]\n[Language] - [Proficiency Level]"
-  },
-  {
-    "objectID": "skills.html#professional-development",
-    "href": "skills.html#professional-development",
-    "title": "Skills & Expertise",
-    "section": "Professional Development",
-    "text": "Professional Development\n\nCertifications\n\n\n[Certification Name] - Issuing Organization, Year\n[Certification Name] - Issuing Organization, Year\n\n\n\nWorkshops & Training\n\n\n[Workshop/Course Name] - Institution, Year\n[Workshop/Course Name] - Institution, Year"
+    "section": "Languages & Development",
+    "text": "Languages & Development\n\n\nLanguages\nEnglish  Native/Fluent\n[Language]  Proficient\n[Language]  Intermediate\n\n\nProfessional Development\nCertifications\n\n[Certification Name] — Issuing Organization, Year\n[Certification Name] — Issuing Organization, Year\n\nWorkshops & Training\n\n[Workshop/Course Name] — Institution, Year\n[Workshop/Course Name] — Institution, Year"
   }
 ]
