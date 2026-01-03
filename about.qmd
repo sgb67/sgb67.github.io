@@ -1,5 +1,54 @@
 ---
-title: "About"
+title: "About Me"
+format:
+  html:
+    theme: brite
+    css: styles.css
+    toc: true
 ---
 
-About this site
+## Background & Education
+
+<!-- SPACER: Add your educational background -->
+I first st
+
+---
+
+## Experience
+
+<!-- SPACER: Add your professional experience -->
+
+### Position Title | Organization Name
+**[Start Date] - [End Date or "Present"]**
+
+- Key responsibility or achievement
+- Another important contribution
+- Significant project or initiative
+
+### Previous Position | Previous Organization
+**[Start Date] - [End Date]**
+
+- Key responsibility or achievement
+- Another important contribution
+
+---
+
+## Publications
+
+<!-- SPACER: Add your publications -->
+
+Coming soon!
+
+---
+
+## Skills
+
+
+---
+
+## Awards & Recognition
+
+<!-- SPACER: Add your awards and honors -->
+- **Award Name** - Awarding Organization, Year
+- **Honor/Grant** - Institution, Year
+- **Recognition** - Details, Year

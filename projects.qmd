@@ -1,0 +1,100 @@
+---
+title: "Projects"
+format:
+  html:
+    theme: brite
+    css: styles.css
+    toc: true
+---
+
+## Featured Projects
+
+Below are some of my key projects. Each demonstrates different aspects of my skills and research interests.
+
+---
+
+::: {.project-card}
+### Project Title 1
+
+<!-- SPACER: Add project description -->
+**Description:** [Provide a detailed description of the project, its goals, and significance.]
+
+**Technologies/Methods:** [List key technologies, tools, or methodologies used]
+
+**Key Outcomes:**
+- [Achievement or result 1]
+- [Achievement or result 2]
+- [Achievement or result 3]
+
+**Links:** [GitHub]() | [Paper]() | [Demo]()
+
+:::
+
+---
+
+::: {.project-card}
+### Project Title 2
+
+<!-- SPACER: Add project description -->
+**Description:** [Provide a detailed description of the project, its goals, and significance.]
+
+**Technologies/Methods:** [List key technologies, tools, or methodologies used]
+
+**Key Outcomes:**
+- [Achievement or result 1]
+- [Achievement or result 2]
+- [Achievement or result 3]
+
+**Links:** [GitHub]() | [Paper]() | [Demo]()
+
+:::
+
+---
+
+::: {.project-card}
+### Project Title 3
+
+<!-- SPACER: Add project description -->
+**Description:** [Provide a detailed description of the project, its goals, and significance.]
+
+**Technologies/Methods:** [List key technologies, tools, or methodologies used]
+
+**Key Outcomes:**
+- [Achievement or result 1]
+- [Achievement or result 2]
+- [Achievement or result 3]
+
+**Links:** [GitHub]() | [Paper]() | [Demo]()
+
+:::
+
+---
+
+## Ongoing Research
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### Research Project A
+<!-- SPACER: Add research project details -->
+[Brief description of ongoing research, expected outcomes, and timeline.]
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Research Project B
+<!-- SPACER: Add research project details -->
+[Brief description of ongoing research, expected outcomes, and timeline.]
+:::
+
+:::
+
+---
+
+## Collaborative Work
+
+<!-- SPACER: Add collaborative projects -->
+[Describe projects you've worked on with other researchers, institutions, or organizations.]
+
+**Project Name** - Role: [Your Role]  
+Collaborators: [Names/Institutions]  
+[Brief description and outcomes]

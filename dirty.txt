@@ -1,0 +1,94 @@
+dirty
+
+
+<!-- 
+---
+title: ""
+page-layout: full
+title-block-banner: false
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](close_pic.png){fig-align="left" width="80%" style="border-radius: 50%; border: 3px solid #0d6efd;"}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+## Short bio
+
+<!-- SPACER: Add your introduction and bio here -->
+I am a computational biologist and biochemist that is passionate about biotechnological innovation. I find applying statistical and machine learning concepts to create solutions in the life sciences extremely motivating. I am particularly interested by the interface between AI and engineering biology, currently working on AI methods for functional protein and enzyme design. I am pursuing a PhD at the University of Cambridge and the Wellcome Sanger Institute.
+
+:::
+
+:::
+
+
+
+## 
+
+::: {.grid style="margin-top: 2rem;"}
+
+::: {.g-col-6 .g-col-md-3}
+::: {.link-card}
+[🔗 LinkedIn](https://www.linkedin.com/in/sergio-garcia-busto-099a22226)
+:::
+:::
+
+::: {.g-col-6 .g-col-md-3}
+::: {.link-card}
+[🐦 X (Twitter)](https://twitter.com/YOUR-TWITTER-HANDLE)
+:::
+:::
+
+::: {.g-col-6 .g-col-md-3}
+::: {.link-card}
+[📝 Blog](blog.qmd)
+:::
+:::
+
+::: {.g-col-6 .g-col-md-3}
+::: {.link-card}
+[📄 CV](path/to/your/CV.pdf)
+:::
+:::
+
+:::
+
+---
+
+## Recent Highlights
+
+::: {.grid style="margin-top: 2rem;"}
+
+::: {.g-col-12 .g-col-md-6}
+### 📚 Latest Blog Posts
+<!-- SPACER: Add links to your recent blog posts -->
+- [Blog Post Title 1](blog.qmd)
+- [Blog Post Title 2](blog.qmd)
+- [Blog Post Title 3](blog.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### 🚀 Featured Projects
+<!-- SPACER: Add links to your key projects -->
+- [Project Name 1](projects.qmd)
+- [Project Name 2](projects.qmd)
+- [Project Name 3](projects.qmd)
+:::
+
+:::
+
+---
+
+::: {style="text-align: center; margin-top: 3rem; padding: 2rem; background-color: var(--bs-secondary-bg); border-radius: 10px;"}
+## Let's Work Together
+
+<!-- SPACER: Add your call-to-action message -->
+[Add text about what kind of opportunities you're interested in or how people can reach out to you.]
+
+[Contact Me](mailto:your.email@example.com){.btn .btn-primary .btn-lg}
+:::
+ -->

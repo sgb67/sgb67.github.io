@@ -1,21 +1,26 @@
 project:
   type: website
-  output-dir: docs
+  resources:
+    - "*.pdf"
+
 website:
-  title: "personal_page"
+  title: "Sergio Garcia Busto"
+  twitter-card:
+    creator: "@sergiogarciabus"
+  open-graph:
+    locale: en_US
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - projects.qmd
+      - skills.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: brite
     css: styles.css
-    toc: true
 
 
 
