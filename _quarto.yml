@@ -5,8 +5,8 @@ project:
 
 website:
   title: "Sergio Garcia Busto"
-  twitter-card:
-    creator: "@sergiogarciabus"
+  repo-url: https://github.com/sgb67/sgb67.github.io
+  repo-actions: [source, issue]
   open-graph:
     locale: en_US
   navbar:
@@ -15,7 +15,8 @@ website:
         text: Home
       - about.qmd
       - projects.qmd
-      - skills.qmd
+      - comms.qmd
+      - blog.qmd
 
 format:
   html:

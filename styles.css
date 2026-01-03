@@ -37,6 +37,15 @@ a:hover {
   color: #5a67d8;
 }
 
+a.underline {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+a.underline:hover {
+  text-decoration: underline;
+}
+
 /* Card styling */
 .card {
   border: 1px solid #f0f0f0;
@@ -153,7 +162,44 @@ li {
   justify-content: space-between;
 }
 
-/* Skill progress bar */
+/* Skill level bar - 5 categorical levels with uniform color coding */
+.skill-level-bar {
+  display: inline-flex;
+  gap: 3px;
+  align-items: center;
+  margin-left: auto;
+  flex-shrink: 0;
+}
+
+.level-segment {
+  width: 18px;
+  height: 6px;
+  background: #e0e0e0;
+  border-radius: 2px;
+  transition: background 0.3s ease;
+}
+
+.skill-level-bar.level-1 .level-segment.active {
+  background: #ffc107;
+}
+
+.skill-level-bar.level-2 .level-segment.active {
+  background: #9ca728d4;
+}
+
+.skill-level-bar.level-3 .level-segment.active {
+  background: #28a746b4;
+}
+
+.skill-level-bar.level-4 .level-segment.active {
+  background: #28a745;
+}
+
+.skill-level-bar.level-5 .level-segment.active {
+  background: #198754;
+}
+
+/* Legacy skill bar styles (for backward compatibility) */
 .skill-bar {
   display: inline-block;
   width: 120px;
@@ -187,6 +233,50 @@ li {
 
 .skill-basic {
   width: 40%;
+}
+
+/* Award cards - minimalist style */
+.awards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+}
+
+.award-card {
+  background: #fdfbf3;
+  border: 1px solid #ddd5b8;
+  border-radius: 8px;
+  padding: 0.75rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.award-card:hover {
+  border-color: #c9b882;
+  box-shadow: 0 4px 12px rgba(201, 184, 130, 0.15);
+  transform: translateY(-2px);
+}
+
+.award-card strong {
+  display: block;
+  color: #8b7424;
+  font-size: 0.95rem;
+  margin-bottom: -0.5rem;
+  font-weight: 600;
+}
+
+.award-card p {
+  font-size: 0.85rem;
+  margin: 0.25rem 0;
+  color: #2c3e50;
+}
+
+.award-card em {
+  display: block;
+  color: #6c757d;
+  font-size: 0.85rem;
+  font-style: normal;
 }
 
 /* Simple list styling */
@@ -268,77 +358,236 @@ li {
   }
 }
 
-/* Table of Contents Styling */
-#TOC {
+/* Skill Button Cards */
+.skill-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.skill-btn {
+  display: inline-block;
+  padding: 0.15rem 0.75rem;
+  border-radius: 1.5rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-align: center;
+  transition: all 0.3s ease;
+  border: 1px solid transparent;
+}
+
+.skill-btn.hard-skill {
+  background: #367fb352;
+  color: #1976d2;
+  border-color: #aaaaaa;
+}
+
+.skill-btn.hard-skill:hover {
+  background: #bbdefb;
+  transform: translateY(-2px);
+  box-shadow: 0 2px 8px rgba(25, 118, 210, 0.2);
+}
+
+.skill-btn.soft-skill {
+  background: #cea2d57f;
+  color: #7b1fa2;
+  border-color: #aaaaaa;
+}
+
+.skill-btn.soft-skill:hover {
+  background: #e7c8f5;
+  transform: translateY(-2px);
+  box-shadow: 0 2px 8px rgba(123, 31, 162, 0.2);
+}
+
+/* Experience cards - large minimalist cards */
+.experience-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.experience-card {
   background: #fafafa;
   border: 1px solid #e0e0e0;
-  border-radius: 4px;
-  padding: 1rem;
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
 }
 
-#TOC ul {
-  list-style: none;
-  padding-left: 0;
-  margin: 0;
+.experience-card:hover {
+  border-color: #5a67d8;
+  box-shadow: 0 4px 12px rgba(90, 103, 216, 0.15);
+  transform: translateY(-2px);
 }
 
-#TOC li {
+.experience-card h3 {
+  color: #1a1a1a;
+  font-size: 1.25rem;
+  margin-top: 0;
   margin-bottom: 0.5rem;
+  border: none;
+  padding: 0;
 }
 
-#TOC > ul > li > ul {
-  padding-left: 1rem;
-  margin-top: 0.25rem;
-}
-
-#TOC a {
-  color: #2c3e50;
-  font-size: 0.9rem;
+.experience-card strong {
   display: block;
-  padding: 0.25rem 0.5rem;
-  border-radius: 3px;
-  transition: all 0.2s ease;
-}
-
-#TOC a:hover {
-  color: #5a67d8;
-  background: #f0f0f0;
-}
-
-#TOC .active {
-  color: #5a67d8;
-  font-weight: 500;
-  background: #f0f0f0;
-}
-
-.sidebar nav[role="doc-toc"] ul {
-  list-style: none;
-  padding-left: 0;
-}
-
-.sidebar nav[role="doc-toc"] ul ul {
-  padding-left: 1rem;
-}
-
-.sidebar nav[role="doc-toc"] a {
   color: #2c3e50;
-  font-size: 0.9rem;
-  display: block;
-  padding: 0.4rem 0.5rem;
-  border-radius: 3px;
-  transition: all 0.2s ease;
-  border-left: 2px solid transparent;
-}
-
-.sidebar nav[role="doc-toc"] a:hover {
-  color: #5a67d8;
-  background: #fafafa;
-  border-left-color: #5a67d8;
-}
-
-.sidebar nav[role="doc-toc"] a.active {
-  color: #5a67d8;
+  font-size: 1rem;
+  margin-bottom: 0.25rem;
   font-weight: 500;
-  border-left-color: #5a67d8;
-  background: #fafafa;
 }
+
+.experience-card em {
+  display: block;
+  color: #6c757d;
+  font-size: 0.9rem;
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+
+.experience-card p {
+  color: #2c3e50;
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
+
+.experience-card p:last-child {
+  margin-bottom: 0;
+}
+
+/* Language skill bars - blue color scheme */
+.skill-level-bar.language-bar.level-1 .level-segment.active {
+  background: #bbdefb;
+}
+
+.skill-level-bar.language-bar.level-2 .level-segment.active {
+  background: #64b5f6;
+}
+
+.skill-level-bar.language-bar.level-3 .level-segment.active {
+  background: #2196f3;
+}
+
+.skill-level-bar.language-bar.level-4 .level-segment.active {
+  background: #1976d2;
+}
+
+.skill-level-bar.language-bar.level-5 .level-segment.active {
+  background: #0d47a1;
+}
+
+/* Certification cards - teal/green minimalist theme */
+.cert-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.cert-card {
+  background: #f5faf9;
+  border: 1px solid #b2dfdb;
+  border-radius: 8px;
+  padding: 0.75rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.cert-card:hover {
+  border-color: #4db6ac;
+  box-shadow: 0 4px 12px rgba(77, 182, 172, 0.15);
+  transform: translateY(-2px);
+}
+
+.cert-card strong {
+  display: block;
+  color: #00796b;
+  font-size: 0.95rem;
+  margin-bottom: -0.5rem;
+  font-weight: 600;
+}
+
+.cert-card p {
+  font-size: 0.85rem;
+  margin: 0.25rem 0;
+  color: #2c3e50;
+}
+
+.cert-card em {
+  display: block;
+  color: #6c757d;
+  font-size: 0.85rem;
+  font-style: normal;
+}
+
+@media (prefers-color-scheme: dark) {
+  .cert-card {
+    background: #1a1a1a;
+    border-color: #00695c;
+  }
+  
+  .cert-card:hover {
+    border-color: #4db6ac;
+  }
+  
+  .cert-card strong {
+    color: #4db6ac;
+  }
+}
+
+/* Workshop cards - blue color scheme */
+.workshop-card {
+  background: #f0f7ff;
+  border: 1px solid #bbdefb;
+  border-radius: 8px;
+  padding: 0.75rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.workshop-card:hover {
+  border-color: #42a5f5;
+  box-shadow: 0 4px 12px rgba(66, 165, 245, 0.15);
+  transform: translateY(-2px);
+}
+
+.workshop-card strong {
+  display: block;
+  color: #1565c0;
+  font-size: 0.95rem;
+  margin-bottom: -0.5rem;
+  font-weight: 600;
+}
+
+.workshop-card p {
+  font-size: 0.85rem;
+  margin: 0.25rem 0;
+  color: #2c3e50;
+}
+
+.workshop-card em {
+  display: block;
+  color: #6c757d;
+  font-size: 0.85rem;
+  font-style: normal;
+}
+
+@media (prefers-color-scheme: dark) {
+  .workshop-card {
+    background: #1a1a1a;
+    border-color: #1565c0;
+  }
+  
+  .workshop-card:hover {
+    border-color: #42a5f5;
+  }
+  
+  .workshop-card strong {
+    color: #42a5f5;
+  }
+}
+

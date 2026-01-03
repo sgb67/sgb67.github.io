@@ -7,48 +7,328 @@ format:
     toc: true
 ---
 
-## Background & Education
+## Background summary
 
 <!-- SPACER: Add your educational background -->
-I first st
+Born and raised in Bilbao, Spain, I moved to the UK to study a BSc in Biochemistry at UCL, where I specialised in computational biology. During my degree, I also gained experience in protein science through a year-long Industrial Placement in Biophysics at Nxera Pharma (formerly Sosei Heptares).
 
----
+My mathematical inclinations led me to specialise further through an MRes in Bioinformatics and Theoretical Systems Biology at Imperial College London, funded by an Basque Excellence Scholarship. There, I joined the [Theoretical Systems Biology](https://www.perez-carrasco.com/){.underline} research group, where I developed information-theoretical tools for RNA-seq data analysis and benchmarked simulation-based inference techniques. I was also part of the top-scoring team in the European Space Agency (ESA) Space Omics Hackathon, which granted us funding for a publication, and led to an ongoing collaboration.
 
-## Experience
+I then joined the University of Cambridge and the Wellcome Sanger Institute after receiving a fully-funded PhD Studentship from Wellcome. I carried out rotations on fine-tuning DNA language models and interpretability of DNA foundation models. I then started my main project as part of the [Marks Lab](https://www.deboramarkslab.com/){.underline} on AI-driven functional protein design, also collaborating with the [Lehner Lab](https://www.sanger.ac.uk/group/lehner-group/){.underline}, [Sander Lab](https://sanderlab.org/){.underline}, and other groups internationally.
 
-<!-- SPACER: Add your professional experience -->
+In my free time I like to play tennis (always for [Jesus College Cambridge](https://www.jesus.cam.ac.uk/){.underline}), lift weights, try new food and listen to all kinds of music genres.
 
-### Position Title | Organization Name
-**[Start Date] - [End Date or "Present"]**
+## Research Experience
 
-- Key responsibility or achievement
-- Another important contribution
-- Significant project or initiative
+::: {.experience-grid}
 
-### Previous Position | Previous Organization
-**[Start Date] - [End Date]**
+::: {.experience-card}
+### PhD Student
+**Wellcome Sanger Institute & University of Cambridge**
 
-- Key responsibility or achievement
-- Another important contribution
+***10/2024 - Present***
 
----
+My project consists of using and developing AI methods to design proteins with de novo and natural functions. For this I am leveraging sequence-level information learned from evolution as well as structural information, drawing on methods and expertise from [Marks](https://www.deboramarkslab.com/){.underline}, [Lehner](https://www.sanger.ac.uk/group/lehner-group/){.underline} and [Sander](https://sanderlab.org/){.underline} groups. 
 
-## Publications
+I co-founded and currently lead the [Sanger Machine Learning Boocklub](https://brazen-sherbet-4ef.notion.site/ML-bookclub-Sanger-20e711a8a64c80eda9e6c52788a7f5cb){.underline}, a community of nearly 100 people where we run workshops, study sessions, Journal Club-style sessions and talks on the theory behind AI tools in biological research.
 
-<!-- SPACER: Add your publications -->
+I previously carried out rotations on fine-tuning DNA language models (supervised by [Leo Parts](https://www.sanger.ac.uk/group/parts-group/){.underline}) and using Gaussian Processes for interpretability of DNA foundation models ([AI for Cell Engineering Lab](https://www.sanger.ac.uk/group/lotfollahi-group/){.underline}, supervised by Mo Lotfollahi). The [poster](poster_final.pdf){.underline} from the former rotation won the Best Poster Award across the PhD cohort.
+:::
 
-Coming soon!
+::: {.experience-card}
+### Graduate Researcher (MRes)
+**Imperial College London and The Francis Crick Institute**
 
----
+***01/2024 - 09/2024***
+
+As part of the [Theoretical Systems Biology](https://www.perez-carrasco.com/){.underline} group at Imperial College London, and in collaboration with the [Briscoe Lab](https://www.crick.ac.uk/research/labs/james-briscoe){.underline} at the Crick, I improved existing and developed novel information-theoretical tools for single-cell RNAseq data analysis. Part of this work is being prepared for publication. Prior to that, I worked on a project aiming to benchmark deep learning methods for Bayesian Inference to parametrise models of gene regulatory networks. Both projects achieved a Distinction.
+:::
+
+::: {.experience-card}
+### Undergraduate Researcher (BSc)
+**UCL**
+
+***01/2023 - 05/2023***
+
+During my final undergraduate year I carried out a Metagenomics Research Project investigating and the effect of microbiome composition on neurodegenerative disease incidence and progression, and trained diagnostic Machine Learning models for phenotype prediction. I also completed a Literature Project on network biology for Alzheimer’s Disease biomarker discovery, supervised by Prof Christine Orengo. Both projects achieved a High First.
+:::
+
+::: {.experience-card}
+### Industrial Placement Student in Biophysics
+**UCL and Nxera Pharma**
+
+***09/2021 - 08/2022***
+
+I gained significant wet and dry lab experience specialised on Cryo-EM whilst working within the Biophysics department in the Biomolecular Structure Team. In collaboration with the rest of the team, we solved the first-ever structures of a challenging drug target. I improved my teamwork and presentation skills, and my project was awarded an Exceptionally High First.
+:::
+
+:::
+
+
+## Professional Development
+
+
+#### Certifications
+
+All courses were completed in [Coursera](https://www.coursera.org/){.underline}, and vary in duration from 8 to 120 hours. Course content and details can be found in each certification.
+
+::: {.cert-grid}
+::: {.cert-card}
+**Mathematics for Machine Learning: Multivariate Calculus [(Credential)](https://coursera.org/share/6c9718c37e588ba6b12e3ccf96224b2a){.underline}**  
+Imperial College London
+*2023*
+:::
+::: {.cert-card}
+**Mathematics for Machine Learning: Linear Algebra [(Credential)](https://coursera.org/share/b2ade156dbb5d0415275a2e83cbbc354){.underline}**  
+Imperial College London
+*2023*
+:::
+::: {.cert-card}
+**Data Science Specialization: Statistics and Machine Learning [(Credential)](https://coursera.org/share/bc5dee6ad18ef1743f3142abe02b3706){.underline}**  
+The Johns Hopkins University
+*2022*
+:::
+::: {.cert-card}
+**Machine Learning with Python [(Credential)](https://coursera.org/share/d72bb40aaaf76d681bcbdcb2918741c2){.underline}**  
+IBM 
+*2023*
+:::
+::: {.cert-card}
+**Deep Neural Networks with PyTorch [(Credential)](https://coursera.org/share/4386bd09a593ddc237aa1b62d75b87fa){.underline}**  
+IBM 
+*2023*
+:::
+::: {.cert-card}
+**Data Analysis with Python [(Credential)](https://www.credly.com/badges/b1a0998f-d3db-4428-b46e-2691ab3c5392){.underline}**  
+IBM 
+*2023*
+:::
+::: {.cert-card}
+**Python for Data Science and AI [(Credential)](https://www.credly.com/badges/6cb69832-dcdd-4a1d-b531-3f1b343c1f15/public_url){.underline}**  
+IBM 
+*2023*
+:::
+:::
+
+#### Workshops, Training and Hackathons
+
+::: {.cert-grid}
+
+::: {.workshop-card}
+**Gaussian Process and Uncertainty Quantification Summer School**  
+University of Manchester, University of Cambridge
+*2025*
+:::
+::: {.workshop-card}
+**ESA Space Omics Hackathon - Top Score**  
+European Space Agency
+*2024*
+:::
+::: {.workshop-card}
+**Interpretable AI Hackathon**  
+Society for Technological Advancement
+*2025*
+:::
+:::
+
 
 ## Skills
 
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+### Hard Skills
+
+::: {.skill-buttons}
+
+::: {.skill-btn .hard-skill}
+Mathematical Modeling
+:::
+
+::: {.skill-btn .hard-skill}
+Data Science
+:::
+
+::: {.skill-btn .hard-skill}
+Computational Biology
+:::
+
+::: {.skill-btn .hard-skill}
+Bioinformatics
+:::
+
+::: {.skill-btn .hard-skill}
+Biochemistry & Molecular Biology
+:::
+
+
+::: {.skill-btn .hard-skill}
+Machine & Statistical Learning
+:::
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+### Soft Skills
+
+::: {.skill-buttons}
+
+::: {.skill-btn .soft-skill}
+Scientific Writing
+:::
+
+::: {.skill-btn .soft-skill}
+Public Speaking
+:::
+
+::: {.skill-btn .soft-skill}
+Teamwork & Collaboration
+:::
+
+::: {.skill-btn .soft-skill}
+Mentorship
+:::
+
+::: {.skill-btn .soft-skill}
+Time Management
+:::
+
+
+::: {.skill-btn .soft-skill}
+Critical Thinking
+:::
+
+:::
+
+:::
+
+:::
 
 ---
 
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+### Programming Languages
+
+Python <span class="skill-level-bar level-5"><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span></span>
+
+R <span class="skill-level-bar level-5"><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span></span>
+
+C++ <span class="skill-level-bar level-2"><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment"></span><span class="level-segment"></span><span class="level-segment"></span></span>
+
+JavaScript <span class="skill-level-bar level-2"><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment"></span><span class="level-segment"></span><span class="level-segment"></span></span>
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+### Computational and Data Science Tools
+
+PyTorch <span class="skill-level-bar level-5"><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span></span>
+
+
+GPyTorch <span class="skill-level-bar level-4"><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment"></span></span>
+
+Git <span class="skill-level-bar level-4"><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment"></span></span>
+
+
+Snakemake <span class="skill-level-bar level-4"><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment"></span></span>
+
+:::
+
+
+:::
+
+
+
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+### Spoken Languages
+
+English <span class="skill-level-bar language-bar level-5"><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span></span>
+
+Spanish <span class="skill-level-bar language-bar level-5"><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span></span>
+
+Basque <span class="skill-level-bar language-bar level-5"><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment active"></span></span>
+
+French <span class="skill-level-bar language-bar level-2"><span class="level-segment active"></span><span class="level-segment active"></span><span class="level-segment"></span><span class="level-segment"></span><span class="level-segment"></span></span>
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+:::
+
+:::
+
+
 ## Awards & Recognition
 
-<!-- SPACER: Add your awards and honors -->
-- **Award Name** - Awarding Organization, Year
-- **Honor/Grant** - Institution, Year
-- **Recognition** - Details, Year
+_For award details, please visit [Awards](https://www.linkedin.com/in/sergio-garcia-busto-099a22226/details/honors/){.underline} on LinkedIn._
+
+::: {.awards-grid}
+
+::: {.award-card}
+**Best PhD Poster Award**  
+Wellcome Sanger Institute
+*2025*
+:::
+
+::: {.award-card}
+**Wellcome PhD Scholarship**  
+Wellcome Sanger Institute  
+*2024*
+:::
+
+::: {.award-card}
+**Scholarship of Excellence**  
+Diputación Foral de Vizcaya  
+*2023*
+:::
+
+::: {.award-card}
+**Ranked 1st of UG cohort**  
+UCL Department of Biochemistry
+*2023*
+:::
+
+::: {.award-card}
+**Dean's List**  
+UCL Department of Biochemistry
+*2021, 2023*
+:::
+
+::: {.award-card}
+**UG Microbiology Prize**  
+Microbiology Society  
+*2021*
+:::
+
+::: {.award-card}
+**Sir Jack Drummond Prize**  
+UCL Department of Biochemistry
+*2021*
+:::
+
+::: {.award-card}
+**Margaret Kerly Award**  
+UCL Department of Biochemistry
+*2021*
+:::
+
+::: {.award-card}
+**Faculty Education Award**  
+UCL Faculty of Mathematical and Physical Sciences
+*2020*
+:::
+:::
