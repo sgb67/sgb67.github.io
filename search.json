@@ -4,160 +4,104 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Welcome to my blog! Here I share thoughts on research, technology, and topics related to my work."
-  },
-  {
-    "objectID": "blog.html#blog-post-title-1",
-    "href": "blog.html#blog-post-title-1",
-    "title": "Blog",
-    "section": "Blog Post Title 1",
-    "text": "Blog Post Title 1\nDate: [Month Day, Year]\nTags: [Tag1] | [Tag2] | [Tag3]\n\n[Write an engaging introduction to your blog post. This could be about recent research findings, technical insights, reflections on your field, or any other relevant topic.]\n[Continue with the main content of your post. Feel free to include code snippets, images, or other media.]\nRead more…"
-  },
-  {
-    "objectID": "blog.html#blog-post-title-2",
-    "href": "blog.html#blog-post-title-2",
-    "title": "Blog",
-    "section": "Blog Post Title 2",
-    "text": "Blog Post Title 2\nDate: [Month Day, Year]\nTags: [Tag1] | [Tag2] | [Tag3]\n\n[Write an engaging introduction to your blog post. This could be about recent research findings, technical insights, reflections on your field, or any other relevant topic.]\n[Continue with the main content of your post. Feel free to include code snippets, images, or other media.]\nRead more…"
-  },
-  {
-    "objectID": "blog.html#blog-post-title-3",
-    "href": "blog.html#blog-post-title-3",
-    "title": "Blog",
-    "section": "Blog Post Title 3",
-    "text": "Blog Post Title 3\nDate: [Month Day, Year]\nTags: [Tag1] | [Tag2] | [Tag3]\n\n[Write an engaging introduction to your blog post. This could be about recent research findings, technical insights, reflections on your field, or any other relevant topic.]\n[Continue with the main content of your post. Feel free to include code snippets, images, or other media.]\nRead more…"
-  },
-  {
-    "objectID": "blog.html#archive",
-    "href": "blog.html#archive",
-    "title": "Blog",
-    "section": "Archive",
-    "text": "Archive\n\n[Create a list of links to older posts organized by year or category]\n\n2025\n\nPost Title - Brief description\nPost Title - Brief description\n\n\n\n2024\n\nPost Title - Brief description\nPost Title - Brief description"
-  },
-  {
-    "objectID": "blog.html#subscribe-to-updates",
-    "href": "blog.html#subscribe-to-updates",
-    "title": "Blog",
-    "section": "Subscribe to Updates",
-    "text": "Subscribe to Updates\n\nWant to stay updated with my latest posts? [Add subscription method or RSS feed link]"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "I first st"
-  },
-  {
-    "objectID": "about.html#background-education",
-    "href": "about.html#background-education",
-    "title": "About Me",
-    "section": "",
-    "text": "I first st"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "About Me",
-    "section": "Experience",
-    "text": "Experience\n\n\nPosition Title | Organization Name\n[Start Date] - [End Date or “Present”]\n\nKey responsibility or achievement\nAnother important contribution\nSignificant project or initiative\n\n\n\nPrevious Position | Previous Organization\n[Start Date] - [End Date]\n\nKey responsibility or achievement\nAnother important contribution"
-  },
-  {
-    "objectID": "about.html#publications",
-    "href": "about.html#publications",
-    "title": "About Me",
-    "section": "Publications",
-    "text": "Publications\n\nComing soon!"
-  },
-  {
-    "objectID": "about.html#skills",
-    "href": "about.html#skills",
-    "title": "About Me",
-    "section": "Skills",
-    "text": "Skills"
-  },
-  {
-    "objectID": "about.html#awards-recognition",
-    "href": "about.html#awards-recognition",
-    "title": "About Me",
-    "section": "Awards & Recognition",
-    "text": "Awards & Recognition\n\n\nAward Name - Awarding Organization, Year\nHonor/Grant - Institution, Year\nRecognition - Details, Year"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Below are some of my key projects. Each demonstrates different aspects of my skills and research interests.\n\n\n\n\nDescription: [Provide a detailed description of the project, its goals, and significance.]\nTechnologies/Methods: [List key technologies, tools, or methodologies used]\nKey Outcomes: - [Achievement or result 1] - [Achievement or result 2] - [Achievement or result 3]\nLinks: GitHub | Paper | Demo\n\n\n\n\n\nDescription: [Provide a detailed description of the project, its goals, and significance.]\nTechnologies/Methods: [List key technologies, tools, or methodologies used]\nKey Outcomes: - [Achievement or result 1] - [Achievement or result 2] - [Achievement or result 3]\nLinks: GitHub | Paper | Demo\n\n\n\n\n\nDescription: [Provide a detailed description of the project, its goals, and significance.]\nTechnologies/Methods: [List key technologies, tools, or methodologies used]\nKey Outcomes: - [Achievement or result 1] - [Achievement or result 2] - [Achievement or result 3]\nLinks: GitHub | Paper | Demo"
-  },
-  {
-    "objectID": "projects.html#featured-projects",
-    "href": "projects.html#featured-projects",
-    "title": "Projects",
-    "section": "",
-    "text": "Below are some of my key projects. Each demonstrates different aspects of my skills and research interests.\n\n\n\n\nDescription: [Provide a detailed description of the project, its goals, and significance.]\nTechnologies/Methods: [List key technologies, tools, or methodologies used]\nKey Outcomes: - [Achievement or result 1] - [Achievement or result 2] - [Achievement or result 3]\nLinks: GitHub | Paper | Demo\n\n\n\n\n\nDescription: [Provide a detailed description of the project, its goals, and significance.]\nTechnologies/Methods: [List key technologies, tools, or methodologies used]\nKey Outcomes: - [Achievement or result 1] - [Achievement or result 2] - [Achievement or result 3]\nLinks: GitHub | Paper | Demo\n\n\n\n\n\nDescription: [Provide a detailed description of the project, its goals, and significance.]\nTechnologies/Methods: [List key technologies, tools, or methodologies used]\nKey Outcomes: - [Achievement or result 1] - [Achievement or result 2] - [Achievement or result 3]\nLinks: GitHub | Paper | Demo"
-  },
-  {
-    "objectID": "projects.html#ongoing-research",
-    "href": "projects.html#ongoing-research",
-    "title": "Projects",
-    "section": "Ongoing Research",
-    "text": "Ongoing Research\n\n\nResearch Project A\n\n[Brief description of ongoing research, expected outcomes, and timeline.]\n\n\nResearch Project B\n\n[Brief description of ongoing research, expected outcomes, and timeline.]"
-  },
-  {
-    "objectID": "projects.html#collaborative-work",
-    "href": "projects.html#collaborative-work",
-    "title": "Projects",
-    "section": "Collaborative Work",
-    "text": "Collaborative Work\n\n[Describe projects you’ve worked on with other researchers, institutions, or organizations.]\nProject Name - Role: [Your Role]\nCollaborators: [Names/Institutions]\n[Brief description and outcomes]"
+    "text": "Welcome to my blog! Unfortunately, it is currently empty."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sergio Garcia Busto",
     "section": "",
-    "text": "I am a computational biologist and biochemist passionate about building statistical and machine learning solutions to advance biotechnology. My work focuses on developing novel computational approaches for functional protein engineering, with a particular emphasis on AI-driven enzyme design. I am currently pursuing a PhD at the University of Cambridge and the Wellcome Sanger Institute, working closely with Harvard Medical School under the supervision of Debbie Marks. The intersection of biology, computation, and design drives my research and fuels my commitment to innovate within the life sciences.\nThis site showcases my professional profile, past and projects, and research endeavors. It serves as a hub for sharing my work and connecting with the broader scientific community.\nIf you are interested in my work, or want to contact me for any other reason, do not hesitate to reach out to me via LinkedIn or email."
+    "text": "I am a computational biologist and biochemist passionate about building statistical and machine learning solutions to engineer living systems and advance biotechnology. My work focuses on developing novel computational approaches for functional protein engineering, with a particular emphasis on AI-driven enzyme design. I am currently pursuing a PhD at the University of Cambridge and the Wellcome Sanger Institute, working closely with Harvard Medical School under the supervision of Debbie Marks. As a member of both the Marks Lab and Lehner Lab, the intersection of biology, computation, and design fuels my commitment to innovate within the life sciences.\n\n\nThis site showcases my professional profile, past and current projects, and research endeavors. From protein design to genome engineering and space biology, I intend it to be a hub for sharing my work and connecting with the broader scientific community.\nIf you are interested in any of this, or want to contact me for any other reason, do not hesitate to reach out via LinkedIn or email."
   },
   {
     "objectID": "index.html#bio",
     "href": "index.html#bio",
     "title": "Sergio Garcia Busto",
     "section": "",
-    "text": "I am a computational biologist and biochemist passionate about building statistical and machine learning solutions to advance biotechnology. My work focuses on developing novel computational approaches for functional protein engineering, with a particular emphasis on AI-driven enzyme design. I am currently pursuing a PhD at the University of Cambridge and the Wellcome Sanger Institute, working closely with Harvard Medical School under the supervision of Debbie Marks. The intersection of biology, computation, and design drives my research and fuels my commitment to innovate within the life sciences.\nThis site showcases my professional profile, past and projects, and research endeavors. It serves as a hub for sharing my work and connecting with the broader scientific community.\nIf you are interested in my work, or want to contact me for any other reason, do not hesitate to reach out to me via LinkedIn or email."
+    "text": "I am a computational biologist and biochemist passionate about building statistical and machine learning solutions to engineer living systems and advance biotechnology. My work focuses on developing novel computational approaches for functional protein engineering, with a particular emphasis on AI-driven enzyme design. I am currently pursuing a PhD at the University of Cambridge and the Wellcome Sanger Institute, working closely with Harvard Medical School under the supervision of Debbie Marks. As a member of both the Marks Lab and Lehner Lab, the intersection of biology, computation, and design fuels my commitment to innovate within the life sciences.\n\n\nThis site showcases my professional profile, past and current projects, and research endeavors. From protein design to genome engineering and space biology, I intend it to be a hub for sharing my work and connecting with the broader scientific community.\nIf you are interested in any of this, or want to contact me for any other reason, do not hesitate to reach out via LinkedIn or email."
   },
   {
-    "objectID": "skills.html",
-    "href": "skills.html",
-    "title": "Skills & Expertise",
+    "objectID": "comms.html",
+    "href": "comms.html",
+    "title": "Talks & Publications",
     "section": "",
-    "text": "Python \nR \n[Language] \n[Language] \n\n\n\npandas \nNumPy \nscikit-learn \nTensorFlow \nPyTorch \n[Framework] \n\n\n\nGit \nDocker \nSQL \n[Tool]"
+    "text": "Sanger Science Symposium (May 2025): presented my rotation project on fine-tuning DNA language models for an existing genome engineering project. [Read more about the project here]"
   },
   {
-    "objectID": "skills.html#technical-skills",
-    "href": "skills.html#technical-skills",
-    "title": "Skills & Expertise",
+    "objectID": "comms.html#talks",
+    "href": "comms.html#talks",
+    "title": "Talks & Publications",
     "section": "",
-    "text": "Python \nR \n[Language] \n[Language] \n\n\n\npandas \nNumPy \nscikit-learn \nTensorFlow \nPyTorch \n[Framework] \n\n\n\nGit \nDocker \nSQL \n[Tool]"
+    "text": "Sanger Science Symposium (May 2025): presented my rotation project on fine-tuning DNA language models for an existing genome engineering project. [Read more about the project here]"
   },
   {
-    "objectID": "skills.html#research-analytical-skills",
-    "href": "skills.html#research-analytical-skills",
-    "title": "Skills & Expertise",
-    "section": "Research & Analytical Skills",
-    "text": "Research & Analytical Skills\n\n\nQuantitative Methods\nStatistical modeling \nExperimental design \nTime series analysis \n[Method] \n\n\nQualitative Methods\nCase study analysis \nContent analysis \nSurvey design \n[Method]"
+    "objectID": "comms.html#publications",
+    "href": "comms.html#publications",
+    "title": "Talks & Publications",
+    "section": "Publications",
+    "text": "Publications\nComing soon!"
   },
   {
-    "objectID": "skills.html#soft-skills",
-    "href": "skills.html#soft-skills",
-    "title": "Skills & Expertise",
-    "section": "Soft Skills",
-    "text": "Soft Skills\n\n\nCommunication & Collaboration\nScientific writing \nPublic speaking \nTeam collaboration \nMentorship \n\n\nProfessional Skills\nProject management \nProblem solving \nCritical thinking \nAdaptability"
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "The engineering of proteins with enhanced native functions or entirely novel activities are major challenges in computational protein design. However, current generative models exhibit limitations in producing functionally diverse variants. Thus, new methods are needed that can (i) extract the right patterns from evolutionary data, (ii) incorporate structural constraints, and (iii) leverage experimental data to enrich the functional generative landscape. My doctoral research focuses on developing computational approaches towards these goals.\nCollaborators: Thomas Hopf, Marks Lab, Sander Lab.\nStatus: In Progress\n\n\n\nEVEdesign, led by Thomas Hopf, is an open-source initiative to democratise AI-driven protein design. It enables end-to-end sequence design, from entering the target protein through analysing the generated library to ordering codon-optimised DNA sequences. Key semi-supervised functionalities are currently being built. I am working on the creation of our first complex protein design pipeline.\nCollaborators: Thomas Hopf, Marks Lab, Steinegger Lab, D’Oelnitz Lab, Sander Lab, NIST.\nStatus: In Progress\nLinks: EVEdesign"
   },
   {
-    "objectID": "skills.html#languages-development",
-    "href": "skills.html#languages-development",
-    "title": "Skills & Expertise",
-    "section": "Languages & Development",
-    "text": "Languages & Development\n\n\nLanguages\nEnglish  Native/Fluent\n[Language]  Proficient\n[Language]  Intermediate\n\n\nProfessional Development\nCertifications\n\n[Certification Name] — Issuing Organization, Year\n[Certification Name] — Issuing Organization, Year\n\nWorkshops & Training\n\n[Workshop/Course Name] — Institution, Year\n[Workshop/Course Name] — Institution, Year"
+    "objectID": "projects.html#research-directions",
+    "href": "projects.html#research-directions",
+    "title": "Projects",
+    "section": "",
+    "text": "The engineering of proteins with enhanced native functions or entirely novel activities are major challenges in computational protein design. However, current generative models exhibit limitations in producing functionally diverse variants. Thus, new methods are needed that can (i) extract the right patterns from evolutionary data, (ii) incorporate structural constraints, and (iii) leverage experimental data to enrich the functional generative landscape. My doctoral research focuses on developing computational approaches towards these goals.\nCollaborators: Thomas Hopf, Marks Lab, Sander Lab.\nStatus: In Progress\n\n\n\nEVEdesign, led by Thomas Hopf, is an open-source initiative to democratise AI-driven protein design. It enables end-to-end sequence design, from entering the target protein through analysing the generated library to ordering codon-optimised DNA sequences. Key semi-supervised functionalities are currently being built. I am working on the creation of our first complex protein design pipeline.\nCollaborators: Thomas Hopf, Marks Lab, Steinegger Lab, D’Oelnitz Lab, Sander Lab, NIST.\nStatus: In Progress\nLinks: EVEdesign"
+  },
+  {
+    "objectID": "projects.html#other-initiatives-collaborations-and-projects",
+    "href": "projects.html#other-initiatives-collaborations-and-projects",
+    "title": "Projects",
+    "section": "Other initiatives, collaborations and projects",
+    "text": "Other initiatives, collaborations and projects\n\n\nSanger Machine Learning Bookclub\nI co-founded and currently lead the Sanger Machine Learning Boocklub (SMLB), a community of nearly 100 people that brings together “BioML” enthusiasts across the Wellcome Sanger Institute and the European Bioinformatics Institute (EMBL-EBI). At the SMLB we aim to focus on the theory of Machine Learning methods that are advancing biological and biotechnological research. It was created to share knowledge, resources and research in an engaging way, and to bring curious scientists together. We run weekly sessions in one of the following forms: workshops, study sessions, Journal Club-style sessions and research talks. A record of all sessions is kept at the official SMLB Notion site.\nDates 04/2025 - Present\nLinks: SMLB site\n\n\nInformation-theoretical tools for single-cell RNA-seq data analysis\nElucidating structure from single-cell RNA-seq data is a major challenge in modern biological research. For my final project of the MRes in Bioinformatics and Theoretical Systems Biology, I improved existing and developed novel information-theoretical tools to uncover real relationships between genes as part of the single-cell RNA-seq data analysis pipeline. This work introduced theoretically tractable alternatives to available methods. Further developments from the Theoretical Systems Biology group and part of my work are now being prepared for publication.\nCollaborators: Theoretical Systems Biology group, Briscoe Lab\n\n\nPredicting DNA function when grafted across species\nFor one of my rotations in the PhD programme, I was part of a larger genome engineering project led by the Parts Lab focused on inter-species chromosome transplantation. I developed an approach that involved fine-tuning DNA language models to elucidate the extent to which the effects of chromosome grafting could be learned. I summarised my findings in a poster which earned the Best Poster Award within the PhD cohort. Manuscript in preparation.\nCollaborators: Parts Lab\n\n\nAI-readiness standards for space biology\nI am part of an international intiative led by scientists from the European Space Agency (ESA) and the National Aeronautics and Space Administration (NASA) that aims to introduce AI-readiness standards and guidelines for space biology data, with ramifications for other biological data types. Manuscript in preparation.\nCollaborators: NASA, ESA"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Born and raised in Bilbao, Spain, I moved to the UK to study a BSc in Biochemistry at UCL, where I specialised in computational biology. During my degree, I also gained experience in protein science through a year-long Industrial Placement in Biophysics at Nxera Pharma (formerly Sosei Heptares).\nMy passion for mathematical modelling led me to specialise further through an MRes in Bioinformatics and Theoretical Systems Biology at Imperial College London, funded by an Basque Excellence Scholarship. There, I joined the Theoretical Systems Biology research group, where I developed information-theoretical tools for RNA-seq data analysis and benchmarked simulation-based inference techniques. I was also part of the top-scoring team in the European Space Agency (ESA) Space Omics Hackathon, which granted us funding for a publication, and led to an ongoing collaboration.\nI then joined the University of Cambridge and the Wellcome Sanger Institute after receiving a fully-funded PhD Studentship from Wellcome. I carried out rotations on fine-tuning DNA language models and interpretability of DNA foundation models. I then started my main project as part of the Marks Lab on AI-driven functional protein design, also collaborating with the Lehner Lab, Sander Lab, and other groups internationally.\nIn my free time I like to play tennis (for Jesus College Cambridge), lift weights, try new food and listen to all kinds of music genres."
+  },
+  {
+    "objectID": "about.html#background-summary",
+    "href": "about.html#background-summary",
+    "title": "About Me",
+    "section": "",
+    "text": "Born and raised in Bilbao, Spain, I moved to the UK to study a BSc in Biochemistry at UCL, where I specialised in computational biology. During my degree, I also gained experience in protein science through a year-long Industrial Placement in Biophysics at Nxera Pharma (formerly Sosei Heptares).\nMy passion for mathematical modelling led me to specialise further through an MRes in Bioinformatics and Theoretical Systems Biology at Imperial College London, funded by an Basque Excellence Scholarship. There, I joined the Theoretical Systems Biology research group, where I developed information-theoretical tools for RNA-seq data analysis and benchmarked simulation-based inference techniques. I was also part of the top-scoring team in the European Space Agency (ESA) Space Omics Hackathon, which granted us funding for a publication, and led to an ongoing collaboration.\nI then joined the University of Cambridge and the Wellcome Sanger Institute after receiving a fully-funded PhD Studentship from Wellcome. I carried out rotations on fine-tuning DNA language models and interpretability of DNA foundation models. I then started my main project as part of the Marks Lab on AI-driven functional protein design, also collaborating with the Lehner Lab, Sander Lab, and other groups internationally.\nIn my free time I like to play tennis (for Jesus College Cambridge), lift weights, try new food and listen to all kinds of music genres."
+  },
+  {
+    "objectID": "about.html#research-experience",
+    "href": "about.html#research-experience",
+    "title": "About Me",
+    "section": "Research Experience",
+    "text": "Research Experience\n\n\nPhD Student\nWellcome Sanger Institute & University of Cambridge\n10/2024 - Present\nMy project consists of using and developing AI methods to design better proteins with de novo and natural functions. For this I am leveraging sequence-level information learned from evolution as well as structural information, drawing on methods and expertise from Marks, Lehner and Sander groups. I am also part of the EVEdesign team, an initiative to democratise AI-driven protein design that enables building complex design pipelines and their integration with experimental data.\nI co-founded and currently lead the Sanger Machine Learning Boocklub, a community of nearly 100 people where we run workshops, study sessions, Journal Club-style sessions and talks on the theory behind AI tools in biological research.\nI previously carried out rotations on fine-tuning DNA language models (supervised by Leo Parts) and using Gaussian Processes for interpretability of DNA foundation models (AI for Cell Engineering Lab, supervised by Mo Lotfollahi). The poster from the former rotation won the Best Poster Award across the PhD cohort.\n\n\nGraduate Researcher (MRes)\nImperial College London and The Francis Crick Institute\n01/2024 - 09/2024\nAs part of the Theoretical Systems Biology group at Imperial College London, and in collaboration with the Briscoe Lab at the Crick, I improved existing and developed novel information-theoretical tools for single-cell RNAseq data analysis. Part of this work is being prepared for publication. Prior to that, I worked on a project aiming to benchmark deep learning methods for Bayesian Inference to parametrise models of gene regulatory networks. Both projects achieved a Distinction.\n\n\nUndergraduate Researcher (BSc)\nUCL\n01/2023 - 05/2023\nDuring my final undergraduate year I carried out a Metagenomics Research Project investigating the effect of the microbiome composition on neurodegenerative disease incidence and progression, and trained diagnostic Machine Learning models for disease prediction. I also completed a Literature Project on network biology for Alzheimer’s Disease biomarker discovery, supervised by Prof Christine Orengo. Both projects achieved a High First.\n\n\nIndustrial Placement Student in Biophysics\nUCL and Nxera Pharma\n09/2021 - 08/2022\nI gained significant wet and dry lab experience specialised on Cryo-EM whilst working within the Biophysics department in the Biomolecular Structure Team. In collaboration with the rest of the team, we solved the first-ever structures of a challenging drug target. I improved my teamwork and presentation skills, and my project was awarded an Exceptionally High First."
+  },
+  {
+    "objectID": "about.html#professional-development",
+    "href": "about.html#professional-development",
+    "title": "About Me",
+    "section": "Professional Development",
+    "text": "Professional Development\n\nCertifications\nAll courses were completed in Coursera, and vary in duration from 8 to 120 hours. Course content and details can be found by clicking on each credential link.\n\n\nMathematics for Machine Learning: Multivariate Calculus (Credential)\nImperial College London 2023\n\n\nMathematics for Machine Learning: Linear Algebra (Credential)\nImperial College London 2023\n\n\nData Science Specialization: Statistics and Machine Learning (Credential)\nThe Johns Hopkins University 2022\n\n\nMachine Learning with Python (Credential)\nIBM 2023\n\n\nDeep Neural Networks with PyTorch (Credential)\nIBM 2023\n\n\nData Analysis with Python (Credential)\nIBM 2023\n\n\nPython for Data Science and AI (Credential)\nIBM 2023\n\n\n\n\nWorkshops, Training and Hackathons\n\n\nGaussian Process and Uncertainty Quantification Summer School\nUniversity of Manchester, University of Cambridge 2025\n\n\nESA Space Omics Hackathon (Top Score)\nEuropean Space Agency 2024\n\n\nInterpretable AI Hackathon\nSociety for Technological Advancement 2025"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills\n\n\nTechnical strengths\n\n\nMathematical Modeling\n\n\nData Science\n\n\nComputational Biology\n\n\nBioinformatics\n\n\nBiochemistry & Molecular Biology\n\n\nMachine & Statistical Learning\n\n\n\n\nNon-technical strengths\n\n\nScientific Writing\n\n\nPublic Speaking\n\n\nTeamwork & Collaboration\n\n\nMentorship\n\n\nTime Management\n\n\nCritical Thinking\n\n\n\n\n\n\n\nProgramming Languages\nPython \nR \nC++ \nJavaScript \n\n\nComputational and Data Science Tools\nPyTorch \nGPyTorch \nGit \nSnakemake \n\n\n\n\n\nSpoken Languages\nEnglish \nSpanish \nBasque \nFrench"
+  },
+  {
+    "objectID": "about.html#awards-recognition",
+    "href": "about.html#awards-recognition",
+    "title": "About Me",
+    "section": "Awards & Recognition",
+    "text": "Awards & Recognition\nFor award details, please visit Awards on LinkedIn.\n\n\nBest PhD Poster Award\nWellcome Sanger Institute 2025\n\n\nWellcome PhD Scholarship\nWellcome Sanger Institute\n2024\n\n\nScholarship of Excellence\nDiputación Foral de Vizcaya\n2023\n\n\nRanked 1st of UG cohort\nUCL Department of Biochemistry 2023\n\n\nDean’s List\nUCL Department of Biochemistry 2021, 2023\n\n\nUG Microbiology Prize\nMicrobiology Society\n2021\n\n\nSir Jack Drummond Prize\nUCL Department of Biochemistry 2021\n\n\nMargaret Kerly Award\nUCL Department of Biochemistry 2021\n\n\nFaculty Education Award\nUCL Faculty of Mathematical and Physical Sciences 2020"
   }
 ]
