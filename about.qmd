@@ -12,7 +12,7 @@ format:
 <!-- SPACER: Add your educational background -->
 Born and raised in Bilbao, Spain, I moved to the UK to study a BSc in Biochemistry at UCL, where I specialised in computational biology. During my degree, I also gained experience in protein science through a year-long Industrial Placement in Biophysics at Nxera Pharma (formerly Sosei Heptares).
 
-My passion for mathematical modelling led me to specialise further through an MRes in Bioinformatics and Theoretical Systems Biology at Imperial College London, funded by an Basque Excellence Scholarship. There, I joined the [Theoretical Systems Biology](https://www.perez-carrasco.com/){.underline} research group, where I developed information-theoretical tools for RNA-seq data analysis and benchmarked simulation-based inference techniques. I was also part of the top-scoring team in the European Space Agency (ESA) Space Omics Hackathon, which granted us funding for a publication, and led to an ongoing collaboration.
+My passion for mathematical modelling led me to specialise further through an MRes in Bioinformatics and Theoretical Systems Biology at Imperial College London, funded by a Basque Excellence Scholarship. There, I joined the [Theoretical Systems Biology](https://www.perez-carrasco.com/){.underline} research group, where I worked on information-theoretical tools for RNA-seq data analysis and benchmarked simulation-based inference techniques. I was also part of the [top-scoring team](https://www.linkedin.com/feed/update/urn:li:activity:7260738920366161921/){.underline} in the European Space Agency (ESA) Space Omics Hackathon, which granted us funding for a publication, and led to an ongoing collaboration.
 
 I then joined the University of Cambridge and the Wellcome Sanger Institute after receiving a fully-funded PhD Studentship from Wellcome. I carried out rotations on fine-tuning DNA language models and interpretability of DNA foundation models. I then started my main project as part of the [Marks Lab](https://www.deboramarkslab.com/){.underline} on AI-driven functional protein design, also collaborating with the [Lehner Lab](https://www.sanger.ac.uk/group/lehner-group/){.underline}, [Sander Lab](https://sanderlab.org/){.underline}, and other groups internationally.
 
@@ -28,7 +28,7 @@ In my free time I like to play tennis (for [Jesus College Cambridge](https://www
 
 ***10/2024 - Present***
 
-My project consists of using and developing AI methods to design better proteins with de novo and natural functions. For this I am leveraging sequence-level information learned from evolution as well as structural information, drawing on methods and expertise from [Marks](https://www.deboramarkslab.com/){.underline}, [Lehner](https://www.sanger.ac.uk/group/lehner-group/){.underline} and [Sander](https://sanderlab.org/){.underline} groups. I am also part of the [EVEdesign](https://evedesign.bio){.underline} team, an initiative to democratise AI-driven protein design that enables building complex design pipelines and their integration with experimental data.
+My project consists of using and developing AI methods to design better proteins with de novo and natural functions. For this I am leveraging sequence-level information learned from evolution as well as structural information, drawing on methods and expertise from the [Marks](https://www.deboramarkslab.com/){.underline}, [Lehner](https://www.sanger.ac.uk/group/lehner-group/){.underline} and [Sander](https://sanderlab.org/){.underline} groups. I am also part of the [EVEdesign](https://evedesign.bio){.underline} team, an initiative to democratise AI-driven protein design that enables building complex design pipelines and their integration with experimental data.
 
 I co-founded and currently lead the [Sanger Machine Learning Boocklub](https://brazen-sherbet-4ef.notion.site/ML-bookclub-Sanger-20e711a8a64c80eda9e6c52788a7f5cb){.underline}, a community of nearly 100 people where we run workshops, study sessions, Journal Club-style sessions and talks on the theory behind AI tools in biological research.
 
@@ -37,11 +37,11 @@ I previously carried out rotations on fine-tuning DNA language models (supervise
 
 ::: {.experience-card}
 ### Graduate Researcher (MRes)
-**Imperial College London and The Francis Crick Institute**
+**Imperial College London & The Francis Crick Institute**
 
 ***01/2024 - 09/2024***
 
-As part of the [Theoretical Systems Biology](https://www.perez-carrasco.com/){.underline} group at Imperial College London, and in collaboration with the [Briscoe Lab](https://www.crick.ac.uk/research/labs/james-briscoe){.underline} at the Crick, I improved existing and developed novel information-theoretical tools for single-cell RNAseq data analysis. Part of this work is being prepared for publication. Prior to that, I worked on a project aiming to benchmark deep learning methods for Bayesian Inference to parametrise models of gene regulatory networks. Both projects achieved a Distinction.
+As part of the [Theoretical Systems Biology](https://www.perez-carrasco.com/){.underline} group at Imperial College London, and in collaboration with the [Briscoe Lab](https://www.crick.ac.uk/research/labs/james-briscoe){.underline} at the Crick, I improved existing and developed novel information-theoretical tools for single-cell RNAseq data analysis. Part of this work is being prepared for publication. Prior to that, I worked on a project aiming to benchmark deep learning methods for Bayesian Inference to parametrise models of gene regulatory networks. Both projects achieved a Distinction within the MRes in Bioinformatics and Theoretical Systems Biology at Imperial College.
 :::
 
 ::: {.experience-card}
@@ -50,7 +50,7 @@ As part of the [Theoretical Systems Biology](https://www.perez-carrasco.com/){.u
 
 ***01/2023 - 05/2023***
 
-During my final undergraduate year I carried out a Metagenomics Research Project investigating the effect of the microbiome composition on neurodegenerative disease incidence and progression, and trained diagnostic Machine Learning models for disease prediction. I also completed a Literature Project on network biology for Alzheimer’s Disease biomarker discovery, supervised by Prof Christine Orengo. Both projects achieved a High First.
+During my final undergraduate year I carried out a Metagenomics Research Project investigating the effect of the microbiome composition on neurodegenerative disease incidence and progression, and trained diagnostic Machine Learning models for disease prediction. I also completed a Literature Project on network biology for Alzheimer’s Disease biomarker discovery, supervised by Prof Christine Orengo. Both projects achieved a High First within the BSc in Biochemistry.
 :::
 
 ::: {.experience-card}
@@ -274,7 +274,7 @@ French <span class="skill-level-bar language-bar level-2"><span class="level-seg
 
 ## Awards & Recognition
 
-_For award details, please visit [Awards](https://www.linkedin.com/in/sergio-garcia-busto-099a22226/details/honors/){.underline} on LinkedIn._
+For award details, please visit [Awards](https://www.linkedin.com/in/sergio-garcia-busto-099a22226/details/honors/){.underline} on LinkedIn.
 
 ::: {.awards-grid}
 

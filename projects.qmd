@@ -25,7 +25,7 @@ The engineering of proteins with enhanced native functions or entirely novel act
 ::: {.project-card}
 ### EVEdesign
 
-[EVEdesign](https://evedesign.bio){.underline}, led by [Thomas Hopf](https://thomashopfconsulting.com){.underline}, is an open-source initiative to democratise AI-driven protein design. It enables end-to-end sequence design, from entering the target protein through analysing the generated library to ordering codon-optimised DNA sequences. Key semi-supervised functionalities are currently being built. I am working on the creation of our first complex protein design pipeline.
+[EVEdesign](https://evedesign.bio){.underline}, led by [Thomas Hopf](https://thomashopfconsulting.com){.underline}, is an open-source initiative to democratise AI-driven protein design. It enables end-to-end sequence design, from entering the target protein through analysing the generated library to ordering codon-optimised DNA sequences. EVEdesign also aims to be a flexible, model-agnostic tool, where both single mutation scans and higher-order mutant generation are possible with custom sampling techniques. Mutation sites are readily mapped onto available structures, and mutant information is extracted and visualised in sequence space, all within the same analysis window. I am working on the creation of our first complex protein design pipeline, which will be included in the pre-print.
 
 **Collaborators:** [Thomas Hopf](https://thomashopfconsulting.com){.underline}, [Marks Lab](https://marks.hms.harvard.edu/), [Steinegger Lab](https://steineggerlab.com/), [D'Oelnitz Lab](https://simondoelsnitz.com), [Sander Lab](https://sanderlab.org/), [NIST](https://www.nist.gov).
 
