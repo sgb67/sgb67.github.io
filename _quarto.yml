@@ -16,7 +16,6 @@ website:
       - about.qmd
       - projects.qmd
       - comms.qmd
-      - blog.qmd
 
 format:
   html:

@@ -364,6 +364,11 @@ li {
   flex-wrap: wrap;
   gap: 0.75rem;
   margin-top: 1rem;
+  justify-content: flex-start;
+}
+
+.skill-buttons.soft-skills {
+  justify-content: flex-end;
 }
 
 .skill-btn {
@@ -444,14 +449,15 @@ li {
 .experience-card em {
   display: block;
   color: #6c757d;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   font-style: italic;
   margin-bottom: 1rem;
 }
 
 .experience-card p {
   color: #2c3e50;
-  line-height: 1.7;
+  font-size: 0.85rem;
+  line-height: 1.6;
   margin-bottom: 1rem;
 }
 
@@ -589,5 +595,66 @@ li {
   .workshop-card strong {
     color: #42a5f5;
   }
+}
+
+/* Project cards - minimalist design */
+.projects-grid {
+  display: flex;
+  flex-direction: column;
+  gap: -1rem;
+  margin: 1.5rem 0;
+}
+
+.project-card {
+  background: #fafafa;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1.25rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.project-card:hover {
+  border-color: #5a67d8;
+  box-shadow: 0 4px 12px rgba(90, 103, 216, 0.15);
+  transform: translateY(-2px);
+}
+
+.project-card h3 {
+  color: #1a1a1a;
+  font-size: 1.1rem;
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  border: none;
+  padding: 0;
+}
+
+.project-card p {
+  color: #2c3e50;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.project-card strong {
+  color: #2c3e50;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.project-card em {
+  color: #6c757d;
+  font-size: 0.85rem;
+  font-style: normal;
+}
+
+.project-card a {
+  color: #5a67d8;
+  font-size: 0.85rem;
+  text-decoration: none;
+}
+
+.project-card a:hover {
+  text-decoration: underline;
 }
 

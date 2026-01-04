@@ -7,94 +7,73 @@ format:
     toc: true
 ---
 
-## Featured Projects
+## Research directions
 
-Below are some of my key projects. Each demonstrates different aspects of my skills and research interests.
-
----
+::: {.projects-grid}
 
 ::: {.project-card}
-### Project Title 1
+### Designing functional proteins
 
-<!-- SPACER: Add project description -->
-**Description:** [Provide a detailed description of the project, its goals, and significance.]
+The engineering of proteins with enhanced native functions or entirely novel activities are major challenges in computational protein design. However, current generative models exhibit limitations in producing functionally diverse variants. Thus, new methods are needed that can (i) extract the right patterns from evolutionary data, (ii) incorporate structural constraints, and (iii) leverage experimental data to enrich the functional generative landscape. My doctoral research focuses on developing computational approaches towards these goals.
 
-**Technologies/Methods:** [List key technologies, tools, or methodologies used]
+**Collaborators:** [Thomas Hopf](https://thomashopfconsulting.com){.underline}, [Marks Lab](https://marks.hms.harvard.edu/), [Sander Lab](https://sanderlab.org/).
 
-**Key Outcomes:**
-- [Achievement or result 1]
-- [Achievement or result 2]
-- [Achievement or result 3]
-
-**Links:** [GitHub]() | [Paper]() | [Demo]()
+**Status:** *In Progress*
 
 :::
-
----
 
 ::: {.project-card}
-### Project Title 2
+### EVEdesign
 
-<!-- SPACER: Add project description -->
-**Description:** [Provide a detailed description of the project, its goals, and significance.]
+[EVEdesign](https://evedesign.bio){.underline}, led by [Thomas Hopf](https://thomashopfconsulting.com){.underline}, is an open-source initiative to democratise AI-driven protein design. It enables end-to-end sequence design, from entering the target protein through analysing the generated library to ordering codon-optimised DNA sequences. Key semi-supervised functionalities are currently being built. I am working on the creation of our first complex protein design pipeline.
 
-**Technologies/Methods:** [List key technologies, tools, or methodologies used]
+**Collaborators:** [Thomas Hopf](https://thomashopfconsulting.com){.underline}, [Marks Lab](https://marks.hms.harvard.edu/), [Steinegger Lab](https://steineggerlab.com/), [D'Oelnitz Lab](https://simondoelsnitz.com), [Sander Lab](https://sanderlab.org/), [NIST](https://www.nist.gov).
 
-**Key Outcomes:**
-- [Achievement or result 1]
-- [Achievement or result 2]
-- [Achievement or result 3]
+**Status:** *In Progress*
 
-**Links:** [GitHub]() | [Paper]() | [Demo]()
-
+**Links:**  [EVEdesign](https://evedesign.bio){.underline}
+:::
 :::
 
----
+## Other initiatives, collaborations and projects
+
+::: {.projects-grid}
 
 ::: {.project-card}
-### Project Title 3
+### Sanger Machine Learning Bookclub
 
-<!-- SPACER: Add project description -->
-**Description:** [Provide a detailed description of the project, its goals, and significance.]
+I co-founded and currently lead the [Sanger Machine Learning Boocklub](https://brazen-sherbet-4ef.notion.site/ML-bookclub-Sanger-20e711a8a64c80eda9e6c52788a7f5cb){.underline} (SMLB), a community of nearly 100 people that brings together "BioML" enthusiasts across the Wellcome Sanger Institute and the European Bioinformatics Institute (EMBL-EBI). At the SMLB we aim to focus on the theory of Machine Learning methods that are advancing biological and biotechnological research. It was created to share knowledge, resources and research in an engaging way, and to bring curious scientists together. We run weekly sessions in one of the following forms: workshops, study sessions, Journal Club-style sessions and research talks. A record of all sessions is kept at the official [SMLB Notion site](https://brazen-sherbet-4ef.notion.site/ML-bookclub-Sanger-20e711a8a64c80eda9e6c52788a7f5cb){.underline}.
 
-**Technologies/Methods:** [List key technologies, tools, or methodologies used]
+**Dates** *04/2025 - Present*
 
-**Key Outcomes:**
-- [Achievement or result 1]
-- [Achievement or result 2]
-- [Achievement or result 3]
+**Links:** [SMLB site](https://brazen-sherbet-4ef.notion.site/ML-bookclub-Sanger-20e711a8a64c80eda9e6c52788a7f5cb){.underline}
+:::
 
-**Links:** [GitHub]() | [Paper]() | [Demo]()
+::: {.project-card}
+### Information-theoretical tools for single-cell RNA-seq data analysis
+
+Elucidating structure from single-cell RNA-seq data is a major challenge in modern biological research. For my final project of the MRes in Bioinformatics and Theoretical Systems Biology, I improved existing and developed novel information-theoretical tools to uncover real relationships between genes as part of the single-cell RNA-seq data analysis pipeline. This work introduced theoretically tractable alternatives to available methods. Further developments from the [Theoretical Systems Biology group](https://www.perez-carrasco.com/){.underline} and part of my work are now being prepared for publication.
+
+**Collaborators:** [Theoretical Systems Biology group](https://www.perez-carrasco.com/){.underline}, [Briscoe Lab](https://www.crick.ac.uk/research/labs/james-briscoe){.underline}
 
 :::
 
----
+::: {.project-card}
+### Predicting DNA function when grafted across species
 
-## Ongoing Research
+For one of my rotations in the PhD programme, I was part of a larger genome engineering project led by the [Parts Lab](https://www.sanger.ac.uk/group/parts-group/){.underline} focused on inter-species chromosome transplantation. I developed an approach that involved fine-tuning DNA language models to elucidate the extent to which the effects of chromosome grafting could be learned. I summarised my findings in a [poster](poster_final.pdf){.underline} which earned the Best Poster Award within the PhD cohort. Manuscript in preparation.
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-6}
-### Research Project A
-<!-- SPACER: Add research project details -->
-[Brief description of ongoing research, expected outcomes, and timeline.]
-:::
-
-::: {.g-col-12 .g-col-md-6}
-### Research Project B
-<!-- SPACER: Add research project details -->
-[Brief description of ongoing research, expected outcomes, and timeline.]
-:::
+**Collaborators:** [Parts Lab](https://www.sanger.ac.uk/group/parts-group/){.underline}
 
 :::
 
----
+::: {.project-card}
+### AI-readiness standards for space biology
 
-## Collaborative Work
+I am part of an international intiative led by scientists from the European Space Agency (ESA) and the National Aeronautics and Space Administration (NASA) that aims to introduce AI-readiness standards and guidelines for space biology data, with ramifications for other biological data types. Manuscript in preparation.
 
-<!-- SPACER: Add collaborative projects -->
-[Describe projects you've worked on with other researchers, institutions, or organizations.]
+**Collaborators:** [NASA](https://www.nasa.gov){.underline}, [ESA](https://www.esa.int){.underline}
 
-**Project Name** - Role: [Your Role]  
-Collaborators: [Names/Institutions]  
-[Brief description and outcomes]
+:::
+
+:::

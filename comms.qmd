@@ -4,7 +4,7 @@ title: "Talks & Publications"
 
 ## Talks
 
-- **Sanger Science Symposium (May 2025):** presented my rotation project on fine-tuning DNA language models for a genome engineering project, which earned the Best [Poster](poster_final.pdf){.underline} Award within the PhD cohort.
+- **Sanger Science Symposium (May 2025):** presented my rotation project on fine-tuning DNA language models for an existing genome engineering project. [[Read more about the project here]](projects.qmd#predicting-dna-function-when-grafted-across-species){.underline}
 
 ## Publications
 
