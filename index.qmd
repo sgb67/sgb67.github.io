@@ -30,8 +30,6 @@ comments: false
 
 I am a computational biologist and biochemist passionate about building statistical and machine learning solutions to engineer living systems and advance biotechnology. My work focuses on developing novel computational approaches for functional protein engineering, with a particular emphasis on AI-driven enzyme design. I am currently pursuing a PhD at the [University of Cambridge](https://www.cam.ac.uk/){.underline} and the [Wellcome Sanger Institute](https://www.sanger.ac.uk/){.underline}, working closely with [Harvard Medical School](https://hms.harvard.edu/){.underline} under the supervision of Debbie Marks. As a member of the [Marks Lab](https://marks.hms.harvard.edu/){.underline} and collaborator of the [Lehner](https://www.sanger.ac.uk/group/lehner-group/){.underline} and [Sander](https://sanderlab.org/){.underline} labs, the intersection of biology, computation, and design fuels my commitment to innovate within the life sciences.
 
-#### What is this site for?
-
 This site showcases my professional profile, past and current projects, and research endeavors. From protein design to genome engineering and space biology, I intend it to be a hub for sharing my work and connecting with the broader scientific community.
 
 If you are interested in any of this, or want to contact me for any other reason, do not hesitate to reach out via [LinkedIn](https://www.linkedin.com/in/sergio-garcia-busto-099a22226){.underline} or [email](mailto:sg2170@cam.ac.uk){.underline}.
