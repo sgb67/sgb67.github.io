@@ -8,4 +8,6 @@ title: "Talks & Publications"
 
 ## Publications
 
-Coming soon!
+- [MIMIQ: Fast mutual information calculation and significance testing for single-cell RNA sequencing analysis](https://www.biorxiv.org/content/10.64898/2026.04.10.717770v1) (bioRxiv, 2026)
+
+- [evedesign: accessible biosequence design with a unified framework](https://www.biorxiv.org/content/10.64898/2026.04.10.717770v1) (bioRxiv, 2026)

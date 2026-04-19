@@ -23,15 +23,15 @@ The engineering of proteins with enhanced native functions or entirely novel act
 :::
 
 ::: {.project-card}
-### EVEdesign
+### evedesign
 
-[EVEdesign](https://evedesign.bio){.underline}, led by [Thomas Hopf](https://thomashopfconsulting.com){.underline}, is an open-source initiative to democratise AI-driven protein design. It enables end-to-end sequence design, from entering the target protein through analysing the generated library to ordering codon-optimised DNA sequences. EVEdesign also aims to be a flexible, model-agnostic tool, where both single mutation scans and higher-order mutant generation are possible with custom sampling techniques. Mutation sites are readily mapped onto available structures, and mutant information is extracted and visualised in sequence space, all within the same analysis window. I am working on the creation of our first complex protein design pipeline, which will be included in the pre-print.
+[evedesign](https://evedesign.bio){.underline}, led by [Thomas Hopf](https://thomashopfconsulting.com){.underline}, is an open-source initiative to democratise AI-driven protein design. It enables end-to-end sequence design, from entering the target protein through analysing the generated library to ordering codon-optimised DNA sequences. evedesign also aims to be a flexible, model-agnostic tool, where both single mutation scans and higher-order mutant generation are possible with custom sampling techniques. Mutation sites are readily mapped onto available structures, and mutant information is extracted and visualised in sequence space, all within the same analysis window. I am working on the creation of our first complex protein design pipeline, which will be included in the pre-print.
 
 **Collaborators:** [Thomas Hopf](https://thomashopfconsulting.com){.underline}, [Marks Lab](https://marks.hms.harvard.edu/), [Steinegger Lab](https://steineggerlab.com/), [D'Oelnitz Lab](https://simondoelsnitz.com), [Sander Lab](https://sanderlab.org/), [NIST](https://www.nist.gov).
 
-**Status:** *In Progress*
+**Status:** Pre-print of evedesign in [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.04.10.717770v1){.underline}.
 
-**Links:**  [EVEdesign](https://evedesign.bio){.underline}
+**Links:**  [evedesign](https://evedesign.bio){.underline}
 :::
 :::
 
@@ -52,9 +52,11 @@ I co-founded and currently lead the [Sanger Machine Learning Boocklub](https://b
 ::: {.project-card}
 ### Information-theoretical tools for single-cell RNA-seq data analysis
 
-Elucidating structure from single-cell RNA-seq data is a major challenge in modern biological research. For my final project of the MRes in Bioinformatics and Theoretical Systems Biology, I improved existing and developed novel information-theoretical tools to uncover real relationships between genes as part of the single-cell RNA-seq data analysis pipeline. This work introduced theoretically tractable alternatives to available methods. Further developments from the [Theoretical Systems Biology group](https://www.perez-carrasco.com/){.underline} and part of my work are now being prepared for publication.
+Elucidating structure from single-cell RNA-seq data is a major challenge in modern biological research. For my final project of the MRes in Bioinformatics and Theoretical Systems Biology, I improved existing and developed novel information-theoretical tools to uncover real relationships between genes as part of the single-cell RNA-seq data analysis pipeline. This work introduced theoretically tractable alternatives to available methods, which has been further developed into [MIMIQ](https://www.biorxiv.org/content/10.64898/2026.04.10.717770v1){.underline}---in collaboration with the [Theoretical Systems Biology group](https://www.perez-carrasco.com/){.underline}. 
 
 **Collaborators:** [Theoretical Systems Biology group](https://www.perez-carrasco.com/){.underline}, [Briscoe Lab](https://www.crick.ac.uk/research/labs/james-briscoe){.underline}
+
+**Status:** Pre-print of MIMIQ now in [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.04.10.717770v1){.underline}.
 
 :::
 
