@@ -10,7 +10,7 @@ title: "Talks & Publications"
 
 - **AIxBio 2025 (June 2025):** presented my rotation project on fine-tuning DNA language models for an existing genome engineering project. [[Read more about the project here]](projects.qmd#predicting-dna-function-when-grafted-across-species){.underline}
 
-- **CSHL AI in Biology Meeting (May 2026):** presented [evedesign: accessible biosequence design with a unified framework](https://www.biorxiv.org/content/10.64898/2026.04.10.717770v1) and work on inductive biases for enzyme engineering [poster](poster_functional_landscape_3.pdf){.underline}. [[Read more about the project here]](projects.qmd#information-theoretical-tools-for-single-cell-rna-seq-data-analysis){.underline}
+- **CSHL AI in Biology Meeting (May 2026):** presented two posters: (a) [evedesign: accessible biosequence design with a unified framework](https://www.biorxiv.org/content/10.64898/2026.04.10.717770v1) [poster](poster_evedesign_final.pdf){.underline} and (b) advances on learning catalytic landscapes for enzyme engineering [poster](poster_functional_landscape_3.pdf){.underline}.
 
 ## Publications
 

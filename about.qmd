@@ -279,6 +279,18 @@ For award details, please visit [Awards](https://www.linkedin.com/in/sergio-garc
 ::: {.awards-grid}
 
 ::: {.award-card}
+**College Colours**  
+Jesus College Cambridge
+*2026*
+:::
+
+::: {.award-card}
+**Nova 111 Student List Winner**  
+Nova Talent
+*2026*
+:::
+
+::: {.award-card}
 **Best PhD Poster Award**  
 Wellcome Sanger Institute
 *2025*
