@@ -14,6 +14,8 @@ title: "Talks & Publications"
 
 ## Publications
 
+- [Building AI-Ready Data Systems for Space Life Sciences, Aerospace Medicine, and Deep Space Exploration](https://arxiv.org/abs/2606.28856) (arXiv, 2026)
+
 - [MIMIQ: Fast mutual information calculation and significance testing for single-cell RNA sequencing analysis](https://www.biorxiv.org/content/10.64898/2026.04.10.717770v1) (bioRxiv, 2026)
 
 - [evedesign: accessible biosequence design with a unified framework](https://www.biorxiv.org/content/10.64898/2026.04.10.717770v1) (bioRxiv, 2026)
