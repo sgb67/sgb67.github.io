@@ -6,6 +6,8 @@ title: "Talks & Publications"
 
 - **Sanger Science Symposium (May 2025):** presented my rotation project on fine-tuning DNA language models for an existing genome engineering project. [[Read more about the project here]](projects.qmd#predicting-dna-function-when-grafted-across-species){.underline}
 
+- **Variant Effects Seminar Series (September 2026):** presented [evedesign: accessible biosequence design with a unified framework](https://www.biorxiv.org/content/10.64898/2026.04.10.717770v1) (bioRxiv, 2026). Now on [YouTube](https://www.youtube.com/watch?v=_HoKKRrNSjk&list=PLpuyKCtAQrkDuM4IGwcbsp7kIpGD1AOzS&index=2&pp=iAQB).
+
 ## Posters
 
 - **AIxBio 2025 (June 2025):** presented my rotation project on fine-tuning DNA language models for an existing genome engineering project. [[Read more about the project here]](projects.qmd#predicting-dna-function-when-grafted-across-species){.underline}
