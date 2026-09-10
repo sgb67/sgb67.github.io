@@ -115,6 +115,11 @@ IBM
 ::: {.cert-grid}
 
 ::: {.workshop-card}
+**Probabilistic Machine Learning Summer School**  
+University of Cambridge
+*2026*
+:::
+::: {.workshop-card}
 **Gaussian Process and Uncertainty Quantification Summer School**  
 University of Manchester, University of Cambridge
 *2025*
